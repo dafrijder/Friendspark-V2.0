@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+      "layer0": "item/oak_sign"
+    },
+    "overrides": [
+      {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "item/deco/trashcan"
+      }
+    ]
+  }
+  

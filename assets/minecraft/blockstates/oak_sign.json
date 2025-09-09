@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "block/trashcan", "y": 180 },
+    "facing=east":  { "model": "block/trashcan", "y": 270 },
+    "facing=south": { "model": "block/trashcan", "y": 0 },
+    "facing=west":  { "model": "block/trashcan", "y": 90 }
+  }
+}

@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/xpress/xpress_text_queue",
+		"particle": "block/xpress/xpress_text_queue"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 0],
+			"to": [32, 7, 4],
+			"faces": {
+				"north": {"uv": [0, 0.7424, 16, 3.2928], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 10, 24],
+			"scale": [2, 2, 2]
+		}
+	}
+}

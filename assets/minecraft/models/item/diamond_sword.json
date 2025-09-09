@@ -1,0 +1,7487 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+ "overrides": [
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0
+   },
+   "model": "item/diamond_sword"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0
+   },
+   "model": "item/diamond_sword"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0006406149903907751
+   },
+   "model": "item/attractions/water/wiwa_log"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0012812299807815502
+   },
+   "model": "item/attractions/water/buoy"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0019218449711723253
+   },
+   "model": "item/attractions/dm/dmKoorbank"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0025624599615631004
+   },
+   "model": "item/attractions/dm/dmSchijf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0032030749519538753
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0038436899423446506
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.004484304932735426
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.005124919923126201
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.005765534913516976
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.006406149903907751
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.007046764894298526
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.007687379884689301
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.008327994875080076
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.008968609865470852
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.009609224855861626
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.010249839846252402
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.010890454836643177
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.011531069827033951
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.014734144778987827
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.015374759769378602
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.016015374759769378
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.016655989750160152
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.017296604740550926
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.017937219730941704
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.018577834721332478
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.019218449711723252
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.01985906470211403
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.020499679692504803
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.021140294682895577
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.021780909673286355
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.02242152466367713
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.023062139654067903
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.02370275464445868
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.02498398462524023
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.02626521460602178
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.026905829596412554
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.027546444586803328
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.028187059577194105
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.02882767456758488
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.029468289557975653
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03010890454836643
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.030749519538757205
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03139013452914798
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.032030749519538756
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03267136450992953
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.033311979500320305
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03395259449071108
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03459320948110185
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.035233824471492634
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03587443946188341
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03651505445227418
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.037155669442664956
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03779628443305573
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.038436899423446504
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.03971812940422806
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04035874439461883
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04099935938500961
+   },
+   "model": "item/attractions/water/"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04163997437540038
+   },
+   "model": "item/attractions/water/d39b657d-fcb2-3d04-a560-64d8b2bf2793"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.042280589365791155
+   },
+   "model": "item/attractions/water/7f1d02ae-b06d-3c6d-9299-dbf22928b8d5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.044202434336963484
+   },
+   "model": "item/attractions/water/95be81e7-3f0d-33a3-9294-358353ad8bed"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04484304932735426
+   },
+   "model": "item/attractions/water/97e6eac8-49e7-36d0-a90d-10ce354b39da"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04548366431774503
+   },
+   "model": "item/attractions/water/8edafb72-1019-32fc-a32a-7063e523770e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.046124279308135806
+   },
+   "model": "item/attractions/water/fcde9833-7b3a-3fe4-a54d-a1ae7036fe13"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04676489429852658
+   },
+   "model": "item/attractions/water/df70601d-cc41-35d2-bae2-5e749685c0c0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04740550928891736
+   },
+   "model": "item/attractions/water/1d5ac19d-59d9-3b96-aa21-1d41af451b6c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.048046124279308135
+   },
+   "model": "item/attractions/water/f2d926f4-6a63-3bdd-b9b8-ec115f5e7e08"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.04868673926969891
+   },
+   "model": "item/attractions/water/e89c8308-01e3-31eb-b113-d91b64ce91d6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05060858424087123
+   },
+   "model": "item/attractions/water/68939ffe-249f-385d-a149-e09aa497383c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.051249199231262005
+   },
+   "model": "item/attractions/water/95951b02-d021-3259-8248-e42aa88af1c8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.051889814221652786
+   },
+   "model": "item/attractions/water/2240b47a-1935-39a6-9550-5893fdfee289"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05253042921204356
+   },
+   "model": "item/attractions/water/c9dad238-f45a-387c-be52-936bb1a2e780"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.053171044202434334
+   },
+   "model": "item/attractions/water/d423c957-0127-38c3-a940-d3a90afc84a7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05381165919282511
+   },
+   "model": "item/attractions/water/40b8706a-e935-3afa-bd97-6c9a7679e7f6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05445227418321588
+   },
+   "model": "item/attractions/water/5807eb46-f4f7-377d-a6ac-8d033bb6c628"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.055092889173606656
+   },
+   "model": "item/attractions/water/51236874-1b89-3045-aad7-a5d9381d260f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05573350416399744
+   },
+   "model": "item/attractions/water/bfed3658-7aa4-3d56-bd32-e5219ea8bec9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05637411915438821
+   },
+   "model": "item/attractions/water/c1b9a07e-a7b0-3520-8061-b974bccb005e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.057014734144778985
+   },
+   "model": "item/attractions/water/808979a3-544f-3278-b717-5eb8dbdc6f6b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05765534913516976
+   },
+   "model": "item/attractions/water/1a261ed9-51f3-3e54-ba10-f1c6ff8ac276"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05829596412556053
+   },
+   "model": "item/attractions/water/82487a06-b95c-35a7-baec-528a0aae051f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05893657911595131
+   },
+   "model": "item/attractions/water/cd410e51-1bcf-3b4a-b096-59ec85361667"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.05957719410634209
+   },
+   "model": "item/attractions/water/f902c569-8235-3ca5-97b5-28ce075ff191"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06021780909673286
+   },
+   "model": "item/attractions/water/b364a736-da7e-3dfb-8bac-c10f9c058c25"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.062139654067905184
+   },
+   "model": "item/attractions/water/1a723aa1-16e0-352e-9f85-efd3aacae077"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06278026905829596
+   },
+   "model": "item/attractions/water/d926af9a-affa-36dc-a355-69f1a5aeca9e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06470211402946828
+   },
+   "model": "item/attractions/water/96862c91-11c0-33b1-8237-14e43389c217"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06534272901985906
+   },
+   "model": "item/attractions/water/5b3bec9d-e16b-3d66-a226-328d8a39b539"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06598334401024984
+   },
+   "model": "item/attractions/water/31b80ae4-76ed-3c68-a8e2-31f86121b307"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06662395900064061
+   },
+   "model": "item/attractions/water/b157cdb3-adab-3d84-be45-6f594ea558e6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06790518898142216
+   },
+   "model": "item/attractions/water/b9ba82bd-81b2-3bf9-b747-21dd6481ea52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.06854580397181294
+   },
+   "model": "item/attractions/water/52b2609f-d233-35ce-b8f2-d54da776acfc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07046764894298527
+   },
+   "model": "item/attractions/water/2f0bb469-89f9-3675-a99e-b46bd649932f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07110826393337603
+   },
+   "model": "item/attractions/water/130fa604-22af-3702-99db-6940f456d0be"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07174887892376682
+   },
+   "model": "item/attractions/water/17c06690-72a0-3d8b-968f-dbe219199cbd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07238949391415758
+   },
+   "model": "item/attractions/water/0bcc4c16-94a0-36be-a79b-3f8a016bf9a7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07303010890454836
+   },
+   "model": "item/attractions/water/0212c047-5ec5-3ab7-a281-1d2bbec4b67c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07367072389493913
+   },
+   "model": "item/attractions/water/dd948ca9-142f-398d-a1a0-b2771b80d254"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07431133888532991
+   },
+   "model": "item/attractions/water/4df07265-d0f6-3263-a567-f3ea5d1322f2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07495195387572069
+   },
+   "model": "item/attractions/water/28bcfc9b-c5ef-337c-a916-28fb20bda096"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07559256886611146
+   },
+   "model": "item/attractions/water/0c8581b9-2a95-3e2a-aa6e-514344149ee5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07623318385650224
+   },
+   "model": "item/attractions/water/20474922-4b58-3efe-8f4d-12067f6fd620"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07687379884689301
+   },
+   "model": "item/attractions/water/14fd7c66-578a-34f6-997a-9b29209c3f8c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07751441383728379
+   },
+   "model": "item/attractions/water/acc46e2c-a00d-3c76-81ec-1b8e02b0ecc4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07815502882767457
+   },
+   "model": "item/attractions/water/45ca5118-72f0-3471-8c88-bf393bcb79ee"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07879564381806534
+   },
+   "model": "item/attractions/water/2336754c-de15-36c8-b97f-474f2beaa14a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.07943625880845612
+   },
+   "model": "item/attractions/water/fc566e05-1303-3195-a00f-4e6b557ebd52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08007687379884688
+   },
+   "model": "item/attractions/water/8e8b9808-479b-3c33-9586-6d390a4861d6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08071748878923767
+   },
+   "model": "item/attractions/water/0f673087-22f5-3e7c-8bc3-5419a284f3e6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08135810377962843
+   },
+   "model": "item/attractions/water/2684f9b5-1ae9-3c8a-bd46-be1e648e1963"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08199871877001921
+   },
+   "model": "item/attractions/water/f53c6d7b-30e7-302f-afdd-58c9b45366fa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08263933376041
+   },
+   "model": "item/attractions/water/cee346b6-b92d-3458-bcb3-30d6c2111e1d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08327994875080076
+   },
+   "model": "item/attractions/water/e21b963e-20b1-3133-895b-b7959217d94a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08392056374119154
+   },
+   "model": "item/attractions/water/0b10e669-4792-369f-a4a3-8f4c6d054db6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08456117873158231
+   },
+   "model": "item/attractions/water/36719247-3503-31cd-9214-5f80fd3ad44b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08520179372197309
+   },
+   "model": "item/attractions/water/59b220c0-4258-3f17-80bc-dcc905992153"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08584240871236386
+   },
+   "model": "item/attractions/water/d6afc334-7238-38cf-b6f7-74b4d2633a11"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08648302370275464
+   },
+   "model": "item/attractions/water/64960b76-fec0-3c59-8fbb-235f07b68e4f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08712363869314542
+   },
+   "model": "item/attractions/water/2ff2c1a4-62f0-35e9-b748-44c7a2ba4000"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08776425368353619
+   },
+   "model": "item/attractions/water/393c306c-7b31-33eb-a450-fcbe00706728"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08840486867392697
+   },
+   "model": "item/attractions/water/bc3ca60a-39ef-3945-8204-875f24239293"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08904548366431773
+   },
+   "model": "item/attractions/water/3dfaf5cd-5a01-3a5b-9f68-c2d70c5d440e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.08968609865470852
+   },
+   "model": "item/attractions/water/1bc6152a-2345-37f5-aabe-a4fe320922dc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.0903267136450993
+   },
+   "model": "item/attractions/water/2c295499-fe6f-3ea2-aba0-18d55d8d163c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09224855861627161
+   },
+   "model": "item/attractions/water/7a11381e-7903-31bd-96b3-a44ae6986116"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09288917360666239
+   },
+   "model": "item/attractions/water/40f5cea2-78ca-3042-a87d-a963da3a3292"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09352978859705316
+   },
+   "model": "item/attractions/water/a7663cb5-ce72-3cd2-a48b-c8b208256596"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09417040358744394
+   },
+   "model": "item/attractions/water/4511585d-e037-3a25-b734-991556eaf51f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09481101857783472
+   },
+   "model": "item/attractions/water/7bc1adac-eeee-3f53-b386-9b850cb77ade"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09545163356822549
+   },
+   "model": "item/attractions/water/ea6030a9-c3b5-32dc-b9a8-460af60e7ef0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09609224855861627
+   },
+   "model": "item/attractions/water/5355d926-0f1b-33b5-a777-24ff223b1653"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09673286354900704
+   },
+   "model": "item/attractions/water/2cae312d-72b6-38d1-a111-f39b066c500d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09737347853939782
+   },
+   "model": "item/attractions/water/d1642dad-b57d-3cb9-9be9-c4d2e43ffa74"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09801409352978858
+   },
+   "model": "item/attractions/water/c48f1138-a9ae-3852-ac9d-e564233d9050"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09865470852017937
+   },
+   "model": "item/attractions/water/a773b0a8-7906-38b6-9e46-3feecc2f2cb5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09929532351057015
+   },
+   "model": "item/attractions/water/f03512d3-7122-3596-8d40-9b31113b5802"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.09993593850096091
+   },
+   "model": "item/attractions/water/67b93efa-d2b6-3c17-bc60-d2890fb2ee98"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1005765534913517
+   },
+   "model": "item/attractions/water/c0f97cd5-c7f8-3bb6-a2ac-a92695b2e64f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10121716848174246
+   },
+   "model": "item/attractions/water/9e5b2451-3ceb-33d6-b807-7fba4c479100"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10185778347213324
+   },
+   "model": "item/attractions/water/6e3bd5cc-774f-305e-b2ce-3b77ef6f6d97"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10313901345291479
+   },
+   "model": "item/attractions/water/7407cc24-d96e-3069-9655-f71ee1332523"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10377962844330557
+   },
+   "model": "item/attractions/water/e4a81bda-5f43-3757-b873-414d8604a37c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10442024343369634
+   },
+   "model": "item/attractions/water/b8f36442-e087-375a-a466-4dcb7baa4175"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10506085842408712
+   },
+   "model": "item/attractions/water/a38e11e5-b25c-3b9a-bee0-2b1b375f1e62"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10570147341447789
+   },
+   "model": "item/attractions/water/649584c8-778a-3921-a6ff-9eeb76915a12"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10634208840486867
+   },
+   "model": "item/attractions/water/9a202441-8117-3c28-846b-860db64f8b1b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10698270339525945
+   },
+   "model": "item/attractions/water/d925bb31-b5eb-3e90-b363-e8453f6e74f6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10762331838565022
+   },
+   "model": "item/attractions/water/be3d6aad-b450-3496-a83e-d613eddc0ba7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.108263933376041
+   },
+   "model": "item/attractions/water/7928ee93-7c8e-3a48-880f-42e8424e209f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10890454836643176
+   },
+   "model": "item/attractions/water/7b16b93c-9b44-3555-83d3-0c5d049aa360"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.10954516335682254
+   },
+   "model": "item/attractions/water/81ceebb9-e7ce-380a-805a-acebf321b11b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11018577834721331
+   },
+   "model": "item/attractions/water/00f5799c-be9c-346f-9f23-49215f456d4b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11210762331838564
+   },
+   "model": "item/attractions/water/f540afe9-b00d-3b67-b5de-47804341618c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11274823830877642
+   },
+   "model": "item/attractions/water/8a458f02-fcf1-3628-954d-1bb10f0bef92"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11338885329916719
+   },
+   "model": "item/attractions/water/006ad7c6-5b81-3b92-8eaf-452a5b134039"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11402946828955797
+   },
+   "model": "item/attractions/water/78cfebaa-4438-3cbc-821a-f0f3a482de9a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11467008327994874
+   },
+   "model": "item/attractions/water/7ce8125b-d1c6-3424-bb7e-2f154692d72a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11531069827033952
+   },
+   "model": "item/attractions/water/e581a4a2-a7b4-397f-bc65-56e7c6260ceb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1159513132607303
+   },
+   "model": "item/attractions/water/2b14d1e3-8f37-32db-95b6-4e15fd747cbb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11659192825112107
+   },
+   "model": "item/attractions/water/21533f87-12ea-3323-a2f8-29316e837bbe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11723254324151185
+   },
+   "model": "item/attractions/water/c6dedc3b-d8a3-3ffa-93ca-3b8d49c975ca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11787315823190261
+   },
+   "model": "item/attractions/water/d0af4c61-a696-3eba-81f6-08b82165541d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1185137732222934
+   },
+   "model": "item/attractions/water/45cc48d3-f717-3de8-9693-a32053fd6a03"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11915438821268418
+   },
+   "model": "item/attractions/water/7e606584-d86b-3d6b-b028-5ba379fd4e3e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.11979500320307494
+   },
+   "model": "item/attractions/water/c2a9165e-a399-38ac-a8d4-1b00bf0ed5fa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12043561819346572
+   },
+   "model": "item/attractions/water/338960fe-bae1-3844-a2d4-6a025500bd04"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12107623318385649
+   },
+   "model": "item/attractions/water/a413103d-d8fb-3246-ac8f-ce50dd316582"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12171684817424727
+   },
+   "model": "item/attractions/water/3a36cecc-6d72-32f4-94a5-590f1cbd4f04"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12235746316463804
+   },
+   "model": "item/attractions/water/81bea76a-bbea-32a8-bf5a-91784bb4ec90"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12299807815502882
+   },
+   "model": "item/attractions/water/ccf51dca-ffa6-3ad1-8707-a4577cc83997"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1236386931454196
+   },
+   "model": "item/attractions/water/97afb10f-b61e-3946-82af-895d57fc9d0c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12427930813581037
+   },
+   "model": "item/attractions/water/86af0059-ab26-3e29-af36-30457f24ad94"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12491992312620115
+   },
+   "model": "item/attractions/water/5c424c4e-b1a8-3956-8c7c-4dfd81134fcd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12556053811659193
+   },
+   "model": "item/attractions/water/b666f56d-7ed4-3544-96f2-2ccac5a6a077"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12620115310698268
+   },
+   "model": "item/attractions/water/aff43937-612e-37dc-a3bb-a839b01684f3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12684176809737346
+   },
+   "model": "item/attractions/water/dd5ef1ac-34ec-3c37-b527-7ebf9b25364b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12748238308776424
+   },
+   "model": "item/attractions/water/af860719-8636-3f08-afdd-3555359afbf6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12812299807815503
+   },
+   "model": "item/attractions/water/10722e70-a55e-36cd-bb34-26f36cecd8a0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1287636130685458
+   },
+   "model": "item/attractions/water/507a2572-1d20-30b9-bb90-b442496014da"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.12940422805893656
+   },
+   "model": "item/attractions/water/d4c77646-d352-31e1-b1b9-319f6a208e3c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13004484304932734
+   },
+   "model": "item/attractions/water/e06c009d-09f3-3716-a2d1-01dcdf76cd4d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13068545803971812
+   },
+   "model": "item/attractions/water/86b975bf-e199-38f9-8c17-7e8aa1a1aa46"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1313260730301089
+   },
+   "model": "item/attractions/water/6a2955a4-260e-3866-a934-653a2211ec8b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13196668802049968
+   },
+   "model": "item/attractions/water/39a54637-88d1-3e33-b57c-f2cdf3157607"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13260730301089044
+   },
+   "model": "item/attractions/water/3e0e3bf8-e8b5-347d-889e-6fcb028e8afd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13324791800128122
+   },
+   "model": "item/attractions/water/de6eefd1-1959-316d-bd9b-88e74844d888"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.133888532991672
+   },
+   "model": "item/attractions/water/94ef8fed-5b85-334d-98c4-bd7694cd80d0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13452914798206278
+   },
+   "model": "item/attractions/water/749032c5-afbf-3153-94f4-7d440037c3b0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13516976297245353
+   },
+   "model": "item/attractions/water/4b6b8d72-f7c9-39ab-ab1d-69367c4b0544"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13581037796284431
+   },
+   "model": "item/attractions/water/f46874fb-7168-3148-8602-fe8e110c9f81"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1364509929532351
+   },
+   "model": "item/attractions/water/2af46fc2-d34c-382e-aa80-08e5d36c71bd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13709160794362588
+   },
+   "model": "item/attractions/water/586c37fa-bf5b-3c9d-826c-9cd6455eedc5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.13773222293401666
+   },
+   "model": "item/attractions/water/b1b362c4-4211-3d62-b53c-b63313e3ebcf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1383728379244074
+   },
+   "model": "item/attractions/water/ac448986-e61e-3e78-b549-729739a1f734"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1390134529147982
+   },
+   "model": "item/attractions/water/53728c29-b3d3-3a2d-8ffa-ec3d8e18d208"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14285714285714285
+   },
+   "model": "item/attractions/water/f33744e4-1889-3aa4-9c5a-62851e621ed7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14349775784753363
+   },
+   "model": "item/attractions/water/25cad3ba-ffa1-30ab-a2eb-4a17c281c709"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1441383728379244
+   },
+   "model": "item/attractions/water/dcaef482-0986-3d70-b0fc-8157b6d95a8e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14477898782831516
+   },
+   "model": "item/attractions/water/d835f874-7e3f-3a0e-8668-8304945aac28"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14541960281870595
+   },
+   "model": "item/attractions/water/36cff1d8-9559-3ccb-831a-38511158ff02"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14606021780909673
+   },
+   "model": "item/attractions/water/38bfbaa4-4299-3c87-aad0-cbf5aed911bf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1467008327994875
+   },
+   "model": "item/attractions/water/aeb7b12f-dfce-3f30-b045-0166d21eca28"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14734144778987826
+   },
+   "model": "item/attractions/water/9ef39da4-dcab-3293-b142-0eb7374259fc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14798206278026904
+   },
+   "model": "item/attractions/water/ec9b8d68-221b-360f-950c-5963488a6740"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14862267777065982
+   },
+   "model": "item/attractions/water/ed271d44-6a82-3c4e-8b09-f38bf0740998"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1492632927610506
+   },
+   "model": "item/attractions/water/cfd40455-2928-3777-af34-3976578fb736"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.14990390775144138
+   },
+   "model": "item/attractions/water/35dabcd4-14e4-31d5-af6b-46fd3a092c98"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15054452274183214
+   },
+   "model": "item/attractions/water/989782c7-d641-3a71-89ea-788dda39af2f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15118513773222292
+   },
+   "model": "item/attractions/water/d493e653-50bf-39b9-bee1-bc377dd3a93d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1518257527226137
+   },
+   "model": "item/attractions/water/6345bcd3-1509-36b2-964f-4b0520813748"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15246636771300448
+   },
+   "model": "item/attractions/water/e220eded-5a39-3c38-9e07-a4726a8eb574"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15310698270339526
+   },
+   "model": "item/attractions/water/57dea256-cb1d-3db5-b652-52a9a4ac74f4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15374759769378601
+   },
+   "model": "item/attractions/water/9f972483-7ced-30db-aaca-f13c1247b80d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1543882126841768
+   },
+   "model": "item/attractions/water/aff43c73-e786-3270-9935-0f919ff294de"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15502882767456758
+   },
+   "model": "item/attractions/water/53c1ca87-58ca-39f7-acf5-f0bb32aaa81e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15566944266495836
+   },
+   "model": "item/attractions/water/e19cb026-afe8-3386-887f-535edd68dfba"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15631005765534914
+   },
+   "model": "item/attractions/water/e9a97e19-a4af-30e1-a912-304ad8d51693"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1569506726457399
+   },
+   "model": "item/attractions/water/8357d116-59b7-364a-8b32-51ecf0c1aa46"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15759128763613067
+   },
+   "model": "item/attractions/water/90714166-303f-3c1e-b9ac-719cdffa275a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15823190262652145
+   },
+   "model": "item/attractions/water/d534815f-ac3a-3062-8718-862bcae385cd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.15887251761691223
+   },
+   "model": "item/attractions/water/85cfdc9a-6f09-3fc7-976e-a88ff8f928ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.159513132607303
+   },
+   "model": "item/attractions/water/49e8a31d-1c54-3740-843c-40360deb93ea"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16015374759769377
+   },
+   "model": "item/attractions/water/1b30d263-54d1-3f3b-a24c-36a18a323ca2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16079436258808455
+   },
+   "model": "item/attractions/water/f20062d6-3795-3488-ae8f-7b7afa29b50f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16143497757847533
+   },
+   "model": "item/attractions/water/70e7092b-5178-3758-b40e-f167b414e9bb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1620755925688661
+   },
+   "model": "item/attractions/water/4a877893-dd9e-393d-b40c-2b1d2ec9756b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16271620755925686
+   },
+   "model": "item/attractions/water/487da922-a2ec-3ed8-b715-b2c859837500"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16335682254964765
+   },
+   "model": "item/attractions/water/35ca3caf-1e59-3866-9c93-5c0bf9dcc5c8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16399743754003843
+   },
+   "model": "item/attractions/water/2eeb6da7-aeb5-3c47-bec3-2b862ad091aa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1646380525304292
+   },
+   "model": "item/attractions/water/5bc5b835-8292-35ef-b58f-f0bb85398f1a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16527866752082
+   },
+   "model": "item/attractions/water/9384d8fc-db95-3639-9709-6149896654bd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16591928251121074
+   },
+   "model": "item/attractions/water/a4003aa5-a7a7-3bfb-b059-67cac5731796"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16655989750160152
+   },
+   "model": "item/attractions/water/d62dd95e-cefe-35a1-86d0-68cc43969f0f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1672005124919923
+   },
+   "model": "item/attractions/water/d171d503-8664-333d-aaef-ecc984743654"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16784112748238308
+   },
+   "model": "item/attractions/water/158bc69b-b43a-3555-b939-859d6857bca7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16848174247277387
+   },
+   "model": "item/attractions/water/9e2f3f9c-8c24-3c23-802a-9294b6c28ca0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.16912235746316462
+   },
+   "model": "item/attractions/water/345349e5-5b5b-3c9b-b0c3-72cbd7faa342"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1697629724535554
+   },
+   "model": "item/attractions/water/28cb072d-ce18-35af-bea3-467cf231ba61"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17040358744394618
+   },
+   "model": "item/attractions/water/932aba60-cb8c-391d-9c34-efcd311a93d0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17104420243433696
+   },
+   "model": "item/attractions/water/cf41c04b-a819-30f8-a7eb-ef9134add1ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17168481742472771
+   },
+   "model": "item/attractions/water/f75cd1c6-84d4-337f-abc6-d13579a785e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1723254324151185
+   },
+   "model": "item/attractions/water/d5a86a3f-3203-3b99-80d2-94401eb7c546"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17296604740550928
+   },
+   "model": "item/attractions/water/32ccf9b9-e0d3-3154-9930-04ffbfec6005"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17360666239590006
+   },
+   "model": "item/attractions/water/502049d5-344f-3df4-8b25-bfec26f721c7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17424727738629084
+   },
+   "model": "item/attractions/water/a534a45c-e4d8-35a6-bcda-c119e1ce25be"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1748878923766816
+   },
+   "model": "item/attractions/water/8c449054-091b-36fe-8d69-b27779e5633e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17552850736707237
+   },
+   "model": "item/attractions/water/54b94f47-7ae7-3f36-abcb-7ed07a77c6c4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17616912235746315
+   },
+   "model": "item/attractions/water/6f0b70b1-6a22-3720-93e5-ff214eb09735"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17680973734785393
+   },
+   "model": "item/attractions/water/5efea611-6693-3ca6-ab6d-4ef468b32f52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17745035233824472
+   },
+   "model": "item/attractions/water/c55c564f-9d5f-3c72-9d18-01439fb34a03"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17809096732863547
+   },
+   "model": "item/attractions/water/d53c3fb4-0a30-3f88-a9b0-c507e3cd0660"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17873158231902625
+   },
+   "model": "item/attractions/water/dbf5b70b-30cf-3000-9790-7be8795a6792"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.17937219730941703
+   },
+   "model": "item/attractions/water/d64ad1f3-298c-3ceb-9fcb-53bd64169893"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1800128122998078
+   },
+   "model": "item/attractions/water/d778ddc6-f6c1-31e8-93a9-c4db3b1b69e5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1806534272901986
+   },
+   "model": "item/attractions/water/d8fe7d73-eefa-30bc-b2a7-f9084710c061"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18129404228058935
+   },
+   "model": "item/attractions/water/23a99695-c9e6-316e-8a1e-cc0b69c350c6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18193465727098013
+   },
+   "model": "item/attractions/water/8b071ef3-0519-31b5-9e46-a707fa9b0860"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1825752722613709
+   },
+   "model": "item/attractions/water/602515e0-ef9a-3e29-ad37-d0c4c0914d32"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1832158872517617
+   },
+   "model": "item/attractions/water/8e63a78a-7d19-3e2b-949d-c3f8b2fd0949"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18385650224215244
+   },
+   "model": "item/attractions/water/4b44916a-ab24-3ab3-9325-554bd2e8acb8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18449711723254322
+   },
+   "model": "item/attractions/water/6231e85b-2184-36f1-bb67-a9f9abaadd88"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.185137732222934
+   },
+   "model": "item/attractions/water/15477070-1cef-302a-b2a9-8648b883522f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18577834721332478
+   },
+   "model": "item/attractions/water/4f24f95a-894e-325c-91b9-660dae0f6994"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18641896220371557
+   },
+   "model": "item/attractions/water/d73db345-a022-3360-a85e-af4edfddcb79"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18705957719410632
+   },
+   "model": "item/attractions/water/4e7dc5c7-7c2b-388d-94ad-b62e73b71782"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1877001921844971
+   },
+   "model": "item/attractions/water/dddfe98e-b84d-3f7c-9453-4c84b6f04522"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18834080717488788
+   },
+   "model": "item/attractions/water/3b838307-56d3-3bb4-92cf-3be578c84070"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18898142216527866
+   },
+   "model": "item/attractions/water/bde118a1-3fb3-3d46-9d95-e070a49c69fa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.18962203715566944
+   },
+   "model": "item/attractions/water/5886ebe3-6886-3331-b370-82a5a0b705bb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1902626521460602
+   },
+   "model": "item/attractions/water/0127efeb-b2cc-3c62-babb-4aa24175658b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19090326713645098
+   },
+   "model": "item/attractions/water/876efc6f-3efc-35f4-b607-369145cab8fb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19154388212684176
+   },
+   "model": "item/attractions/water/9f1184f0-f055-3c42-816b-34dad8a42d25"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19218449711723254
+   },
+   "model": "item/attractions/water/1411fcb5-d625-35f6-b97c-659ce273142a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19282511210762332
+   },
+   "model": "item/attractions/water/037a4044-f46f-3319-81c0-34f805f896d7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19346572709801407
+   },
+   "model": "item/attractions/water/2d844596-c649-3a27-b499-58e8b12482f1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19410634208840485
+   },
+   "model": "item/attractions/water/99be9ae3-5dbc-3683-85c1-0f6764e69e96"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19474695707879563
+   },
+   "model": "item/attractions/water/92c75d8e-9255-35c8-a7e9-701169f10915"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19538757206918642
+   },
+   "model": "item/attractions/water/b771e3ea-05d6-34c4-9b39-9cb16756bf6e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19602818705957717
+   },
+   "model": "item/attractions/water/d390c8b6-931c-3cff-8900-c29fd56a1b5f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19666880204996795
+   },
+   "model": "item/attractions/water/b4717b23-4ac1-30d8-856e-f2938f24acd3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19730941704035873
+   },
+   "model": "item/attractions/water/2e05e329-fc5f-3e5d-8758-166ffa722e9a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1979500320307495
+   },
+   "model": "item/attractions/water/cb96f888-b506-32cb-8d28-69e85ad10853"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.1985906470211403
+   },
+   "model": "item/attractions/water/a0ed87ad-05a9-32af-911d-88eff7a13799"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19923126201153105
+   },
+   "model": "item/attractions/water/a08be217-a97c-3a0d-9b96-4e7afb9ccaff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.19987187700192183
+   },
+   "model": "item/attractions/water/e263b19c-2af4-3176-83b3-e060f57c9e0a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2005124919923126
+   },
+   "model": "item/attractions/water/f2e06dca-9106-30da-ada4-c7f505ea37c3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2011531069827034
+   },
+   "model": "item/attractions/water/3a52ce1a-ed3e-3f39-84e8-75b50a3bac21"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20179372197309417
+   },
+   "model": "item/attractions/water/9fa4f92b-a640-3f37-90a0-1ff2251ff152"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20243433696348492
+   },
+   "model": "item/attractions/water/751d5ce5-1cb4-34ef-ae30-2da323a9cf89"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2030749519538757
+   },
+   "model": "item/attractions/water/afdab22e-15a9-3ce2-b95d-45a4ae466317"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20371556694426649
+   },
+   "model": "item/attractions/water/3bd8d3c9-1da7-3aee-9c78-e8bd9b09cdf8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20435618193465727
+   },
+   "model": "item/attractions/water/ce54d487-32ca-3e12-96f2-f51987b121a0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20499679692504802
+   },
+   "model": "item/attractions/water/27a1adce-2b92-32e9-b042-8a36cac47219"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2056374119154388
+   },
+   "model": "item/attractions/water/4f7855ee-cc17-3827-94cb-e150c2d3c63e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20627802690582958
+   },
+   "model": "item/attractions/water/0abfde06-61c9-336f-8f70-f2f68d218b82"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20691864189622036
+   },
+   "model": "item/attractions/water/514c385e-cc50-338d-a396-eb820291526f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20755925688661114
+   },
+   "model": "item/attractions/water/1f0d95c8-df06-3320-a33a-c241dca2ed08"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2081998718770019
+   },
+   "model": "item/attractions/water/0cdbad1a-6433-3383-afef-f21a385899ed"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20884048686739268
+   },
+   "model": "item/attractions/water/44f22303-c6a9-3cac-a5cc-029c78a1296d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.20948110185778346
+   },
+   "model": "item/attractions/water/1d7fc7a3-c3e6-3a2e-a831-f4023a596bf6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21012171684817424
+   },
+   "model": "item/attractions/water/9f6427bc-47ad-327a-9b24-6816c97c7740"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21076233183856502
+   },
+   "model": "item/attractions/water/f15f615c-3028-3297-84fd-a98abd4d8820"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21140294682895577
+   },
+   "model": "item/attractions/water/68c62eef-73e8-3864-a5d9-15ef12addd26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21204356181934655
+   },
+   "model": "item/attractions/water/0dd6e6f5-9278-3065-b4d3-ac557d2b59f9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21268417680973734
+   },
+   "model": "item/attractions/water/ede7500c-4529-38e0-8e56-b41605a0fd0c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21332479180012812
+   },
+   "model": "item/attractions/water/b6ea2d6d-def0-37bb-b25c-46e14cd17246"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2139654067905189
+   },
+   "model": "item/attractions/water/a4e06abc-5aa9-32b0-acd1-3f4fe5dbc78d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21460602178090965
+   },
+   "model": "item/attractions/water/5cb4a0ab-c76f-3671-b2e8-fd5e97ca7099"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21524663677130043
+   },
+   "model": "item/attractions/water/8a6a37a7-2f63-3b7e-b4e6-c0b845886302"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2158872517616912
+   },
+   "model": "item/attractions/water/30263a17-b689-3a76-9e95-5974cc91b4fc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.216527866752082
+   },
+   "model": "item/attractions/water/f66de247-ac7d-389f-9397-a8205a64d969"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21716848174247275
+   },
+   "model": "item/attractions/water/12d637c0-7933-39db-b6b9-b1ea68b71a0e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21780909673286353
+   },
+   "model": "item/attractions/water/40619517-d4ee-3996-a808-e6592e813e94"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2184497117232543
+   },
+   "model": "item/attractions/water/6c19f8b5-b995-3816-9f0e-900efec6d34a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2190903267136451
+   },
+   "model": "item/attractions/water/0889f63f-481c-3504-ac6e-4892a027a651"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.21973094170403587
+   },
+   "model": "item/attractions/water/823b6b89-0f78-3c8d-bef0-f1368916cfb5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22037155669442662
+   },
+   "model": "item/attractions/water/b59fe275-b0fd-3cd1-96b6-9c1c4b9da941"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2210121716848174
+   },
+   "model": "item/attractions/water/7ad56b12-17bd-3ae9-9df8-59e41a673cb3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22165278667520819
+   },
+   "model": "item/attractions/water/fc0b369b-6813-38c4-bfd2-8878cbc59b4d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22229340166559897
+   },
+   "model": "item/attractions/water/ba9c9899-dd09-32cb-9522-a88a9b87a50e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22293401665598975
+   },
+   "model": "item/attractions/water/e523c6e2-cba6-3569-973c-627460097498"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2235746316463805
+   },
+   "model": "item/attractions/water/395b1f48-5597-314d-8444-2dabb40743ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22421524663677128
+   },
+   "model": "item/attractions/water/b2045de7-08f4-3b10-940a-6da7e048d142"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22485586162716206
+   },
+   "model": "item/attractions/water/92e2cdff-d1e1-37fd-b77c-ea6c2fe39dd5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22549647661755284
+   },
+   "model": "item/attractions/water/9b2c7d63-0726-3e03-bd89-f82d758762b2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22613709160794362
+   },
+   "model": "item/attractions/water/ed564ea2-9717-3c3b-b532-cbd13d3515df"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22677770659833438
+   },
+   "model": "item/attractions/water/b9d13a2e-2d86-30dd-bfb9-c13805b21836"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22741832158872516
+   },
+   "model": "item/attractions/water/80fe373a-8fcc-372a-aafd-196a995b0085"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22805893657911594
+   },
+   "model": "item/attractions/water/575e2947-b5ec-348f-8dbf-4769f1444820"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22869955156950672
+   },
+   "model": "item/attractions/water/d2ab95c3-3dde-3151-91ab-870cc5f0048a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22934016655989747
+   },
+   "model": "item/attractions/water/54c9b4af-a734-3ffe-a447-3d6c74690233"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.22998078155028825
+   },
+   "model": "item/attractions/water/a94ce64e-8f61-3da3-9d52-73b746bcc2e7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23062139654067904
+   },
+   "model": "item/attractions/water/9b3394e7-2c87-37c9-83e2-c61e9fb610e2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23126201153106982
+   },
+   "model": "item/attractions/water/f2ed1e21-8c09-3492-8494-2d32b0c53de5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2319026265214606
+   },
+   "model": "item/attractions/water/7eb7613c-bfa0-343b-91b0-496ac26d00a5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23254324151185135
+   },
+   "model": "item/attractions/water/52e4fae9-738e-3929-b23b-c73bce1b3678"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23318385650224213
+   },
+   "model": "item/attractions/water/61bd409b-4de9-35c7-9a36-3c8077009c1d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2338244714926329
+   },
+   "model": "item/attractions/water/c028a538-cfa7-35fe-a965-85f99d786910"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2344650864830237
+   },
+   "model": "item/attractions/water/55876409-69a1-3d97-b154-5320aa6504bf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23510570147341447
+   },
+   "model": "item/attractions/water/7a31f652-486b-306d-8231-666d358b89a8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23574631646380523
+   },
+   "model": "item/attractions/water/3358ae62-e9fb-3ea2-a093-b440a539393c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.236386931454196
+   },
+   "model": "item/attractions/water/b61e6af3-2ed8-343c-b594-d087664d2bb2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2370275464445868
+   },
+   "model": "item/attractions/water/8afeb15f-594a-3fd2-ac95-038c23259d93"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23766816143497757
+   },
+   "model": "item/attractions/water/bc817800-fa12-31d5-a0c3-00a449d421cb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23830877642536835
+   },
+   "model": "item/attractions/water/680a1b11-49fa-31cd-adbe-acc85470abee"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2389493914157591
+   },
+   "model": "item/attractions/water/9c401862-9faf-3182-ac48-e4888522b07f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.23959000640614989
+   },
+   "model": "item/attractions/water/28d84c78-904d-3446-b35a-e06d56be87f5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24023062139654067
+   },
+   "model": "item/attractions/water/c2463260-0df8-3263-8352-409c0ae7ff38"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24087123638693145
+   },
+   "model": "item/attractions/water/1a624ece-3c08-32a5-b874-12a86db0f0f6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2415118513773222
+   },
+   "model": "item/attractions/water/5d265f66-7afe-3434-ae34-fe8aa144a9e5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24215246636771298
+   },
+   "model": "item/attractions/water/206cc043-adfa-3848-b84b-a920860021b0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24279308135810376
+   },
+   "model": "item/attractions/water/09066c22-3f19-36dd-8d56-016e3fcf4c21"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24343369634849454
+   },
+   "model": "item/attractions/water/a802a946-1b71-3924-8784-53de91dfc7f5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24407431133888532
+   },
+   "model": "item/attractions/water/8dc60a1a-0429-3440-9dd6-c253e24a18eb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24471492632927608
+   },
+   "model": "item/attractions/water/509cc2a8-655c-3d11-9cce-779ef44ffdea"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24535554131966686
+   },
+   "model": "item/attractions/water/d6bd9d41-6815-3bc0-99f0-a0e63ad78763"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24599615631005764
+   },
+   "model": "item/attractions/water/f4cd49a8-cb89-3f2f-b46c-608b022d71ab"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24663677130044842
+   },
+   "model": "item/attractions/water/d4bba13a-01e1-389f-a84e-b6f0d24f4825"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2472773862908392
+   },
+   "model": "item/attractions/water/7aa01c30-2a6c-3378-9755-1b17b4a6fea1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24791800128122995
+   },
+   "model": "item/attractions/water/c0461f15-0c22-33da-aa3d-4302f95dacdd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24855861627162074
+   },
+   "model": "item/attractions/water/1684e1e6-91fe-3097-b250-4103e46f5d9f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.24919923126201152
+   },
+   "model": "item/attractions/water/0fe3cde7-40f7-3aca-a182-2094465882ac"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2498398462524023
+   },
+   "model": "item/attractions/water/7190a09b-3855-356f-9aec-58a14aa6791c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.25048046124279305
+   },
+   "model": "item/attractions/water/7918ea69-e1e2-31a1-bf3a-f9a015ee0969"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.25112107623318386
+   },
+   "model": "item/attractions/water/973286f9-347a-3dec-8981-89aa4c6724e2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2517616912235746
+   },
+   "model": "item/attractions/water/143e4b35-435c-33c3-b2fa-10bca81047ed"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.25816784112748237
+   },
+   "model": "item/attractions/water/4dc0857c-a03d-3348-8d1c-806bde35dead"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2588084561178731
+   },
+   "model": "item/attractions/water/f14f3c44-2c0a-33c1-95bd-ccf59c27cce5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.25944907110826393
+   },
+   "model": "item/attractions/water/368bae75-2211-3337-9e63-c8a8506eed29"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2600896860986547
+   },
+   "model": "item/attractions/water/eef88f68-f48b-3bc0-a415-e714fddd7e21"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2607303010890455
+   },
+   "model": "item/attractions/water/988fc2b5-0696-3343-9801-30b7a7284331"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.26137091607943624
+   },
+   "model": "item/attractions/water/0029eb9e-2863-3ada-844e-c0b1b27d67ca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.262011531069827
+   },
+   "model": "item/attractions/water/f6cb8c25-0a5c-3eff-93c0-0074c6abc3ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2626521460602178
+   },
+   "model": "item/attractions/water/239c9430-c8bb-3c6b-8c7f-b62a78441394"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.26329276105060856
+   },
+   "model": "item/attractions/water/75853041-130c-3da7-8393-dfc9863eb8fb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.26393337604099937
+   },
+   "model": "item/attractions/water/f1bdda17-daab-3d1f-b5d9-494b9b418f7a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2645739910313901
+   },
+   "model": "item/attractions/water/c6f436c3-ee50-3c94-b8a6-c41f4d997004"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2652146060217809
+   },
+   "model": "item/attractions/water/a12883bf-babb-392b-9de3-eb09f93e63b9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2658552210121717
+   },
+   "model": "item/attractions/water/4bcb6611-347e-3a2a-aefa-1f3be7ec4583"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.26649583600256244
+   },
+   "model": "item/attractions/water/40e217f2-3699-3b18-9e37-f90eef5a3bde"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.267777065983344
+   },
+   "model": "item/attractions/water/482b22a5-0258-3ed7-a711-1d27aa70731f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.26841768097373475
+   },
+   "model": "item/attractions/water/15a676aa-f03d-3526-a0a0-dcdd34153259"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2696989109545163
+   },
+   "model": "item/attractions/water/91d106fb-f6cf-3521-91d0-da6938051256"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27033952594490707
+   },
+   "model": "item/attractions/water/c8f4e8fc-1b36-3f3d-ba86-0216b0c6ac76"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2709801409352979
+   },
+   "model": "item/attractions/water/ac1eed2b-046d-3a2b-afe0-61a97b660e2c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27162075592568863
+   },
+   "model": "item/attractions/water/fb91ebae-9dce-30ee-979f-973d54913c18"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27226137091607944
+   },
+   "model": "item/attractions/water/26af6059-ee48-35b8-afeb-cc1ee8ef3e39"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2729019859064702
+   },
+   "model": "item/attractions/water/dcf2d1a0-a92e-3081-8457-8acace2364aa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27354260089686094
+   },
+   "model": "item/attractions/water/56f6c436-01f8-3c70-9d8f-cd1b8ad99013"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27418321588725175
+   },
+   "model": "item/attractions/water/14cd7386-94ca-3993-a060-60252cc07062"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2748238308776425
+   },
+   "model": "item/attractions/water/520b4ca1-765f-3ba4-9a6f-89b014125d60"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2754644458680333
+   },
+   "model": "item/attractions/water/2f3055ce-2c6b-396c-b2ff-0ed55b9a2b15"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27610506085842407
+   },
+   "model": "item/attractions/water/2b5cd57f-a0f1-378a-8cce-6cea410e5831"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2767456758488148
+   },
+   "model": "item/attractions/water/13097f75-4331-32aa-8e4e-63cad8f70e52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.27738629083920563
+   },
+   "model": "item/attractions/water/d3a3a86a-a743-38ad-b43e-a707dabe2998"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2786675208199872
+   },
+   "model": "item/attractions/water/828b6f4f-dac1-3bb0-bb56-b8543ef309e1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2799487508007687
+   },
+   "model": "item/attractions/water/3dc30b62-572c-3f76-b1ab-86e906c04ab5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2805893657911595
+   },
+   "model": "item/attractions/water/35e33c14-a652-3d6c-8e97-27a1d22853cf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28122998078155026
+   },
+   "model": "item/attractions/water/3b06fae9-c5fe-3153-a3c0-74e0a86ef9fe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28187059577194107
+   },
+   "model": "item/attractions/water/f093496d-8919-33f5-b7d2-dcba7ce40302"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2825112107623318
+   },
+   "model": "item/attractions/water/7520d5e1-71a7-39a1-9ebe-33b591f80cca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2831518257527226
+   },
+   "model": "item/attractions/water/1adad862-9738-36ba-b554-c0f07a79a055"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2837924407431134
+   },
+   "model": "item/attractions/water/811ac651-6bbd-3dd0-8195-cfc7cc67c115"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28443305573350414
+   },
+   "model": "item/attractions/water/1d94894c-c91d-3040-9f46-9157c055c699"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28507367072389495
+   },
+   "model": "item/attractions/water/fd6c5d88-61e5-34c8-85f3-64976497ab23"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2857142857142857
+   },
+   "model": "item/attractions/water/a1b335d3-0585-3bfe-914c-dcdfeaf5b3e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28635490070467645
+   },
+   "model": "item/attractions/water/ef9a2aff-c757-3326-88d9-3efcbc4c4f85"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28699551569506726
+   },
+   "model": "item/attractions/water/5996f755-b81a-3a16-b7f2-fce1fbf33b7d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.287636130685458
+   },
+   "model": "item/attractions/water/91640e9f-5165-398d-b9f0-459e4b5d8391"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2882767456758488
+   },
+   "model": "item/attractions/water/b2a1c3f4-646a-399f-b69d-8229c69e2b00"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2889173606662396
+   },
+   "model": "item/attractions/water/81072295-e925-3563-9ce8-1a34dd128177"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.28955797565663033
+   },
+   "model": "item/attractions/water/d378e542-ed35-313f-8d56-4728434eef34"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29019859064702114
+   },
+   "model": "item/attractions/water/f2ef3cd5-de6b-32b5-a40c-638cb6c4edf2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2908392056374119
+   },
+   "model": "item/attractions/water/880704ed-2c5c-3f1d-8444-096b00023c4f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2914798206278027
+   },
+   "model": "item/attractions/water/bbef38c7-49b4-367e-aeb5-8fb1c19d0a5a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29212043561819345
+   },
+   "model": "item/attractions/water/a283ddd5-86a5-31a0-a5ac-e0f44d660bc0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2927610506085842
+   },
+   "model": "item/attractions/water/f6604597-f52b-31cc-a841-340b426e5958"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.293401665598975
+   },
+   "model": "item/attractions/water/fd049282-d0dd-3e84-872a-4597edb5db48"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29404228058936577
+   },
+   "model": "item/attractions/water/1ad5f8c3-ab98-3c2b-8799-dd1051a94c17"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2946828955797565
+   },
+   "model": "item/attractions/water/f039a025-a837-3be0-80ea-0f28738bcc6e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2959641255605381
+   },
+   "model": "item/attractions/water/6399b0a3-b928-341e-8502-fcee161e4988"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2966047405509289
+   },
+   "model": "item/attractions/water/2ba80df3-db32-35d4-a80c-ab54ae0ab072"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29724535554131964
+   },
+   "model": "item/attractions/water/3b418405-437d-3fd6-bb4a-63227e189c1e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2978859705317104
+   },
+   "model": "item/attractions/water/f668f941-5fbd-30ac-a26f-14eb4cfa731b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.2985265855221012
+   },
+   "model": "item/attractions/water/69ee8781-52c2-3b67-9b96-c5ef39815671"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29916720051249196
+   },
+   "model": "item/attractions/water/885c22a0-d41b-32f5-8a6a-6a3ca60ac4c7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.29980781550288277
+   },
+   "model": "item/attractions/water/0cd1e920-8d2b-3511-9bc7-623f0c91e92c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3004484304932735
+   },
+   "model": "item/attractions/water/fb5bb133-ec2b-3e82-b994-da1910c1f4b3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3010890454836643
+   },
+   "model": "item/attractions/water/a226a790-f95c-33e5-8003-9cea4f3ab2e7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3017296604740551
+   },
+   "model": "item/attractions/water/83dd25f6-beef-31d2-9667-a3a6a362d727"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30237027546444584
+   },
+   "model": "item/attractions/water/18c00324-04b0-34c5-bbf1-4bbdef93586b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30301089045483665
+   },
+   "model": "item/attractions/water/8516f62d-1490-3a1d-b6db-791d579f1c78"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3036515054452274
+   },
+   "model": "item/attractions/water/10960b6a-9d69-381d-bfec-457625f84b2d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30429212043561815
+   },
+   "model": "item/attractions/water/1bea254e-1bfa-3fb9-b5ec-4b75e70f8748"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30493273542600896
+   },
+   "model": "item/attractions/water/3089613c-c88d-355b-942c-9509f9f337a9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3055733504163997
+   },
+   "model": "item/attractions/water/c7782a5a-2c48-3bc0-a331-d4c4557be149"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3062139654067905
+   },
+   "model": "item/attractions/water/64232a80-60e1-3c7a-8124-0a91621cf761"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3068545803971813
+   },
+   "model": "item/attractions/water/8cb9ef0d-c575-3310-8761-c04767947831"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30749519538757203
+   },
+   "model": "item/attractions/water/b9c8518a-0acf-311a-b7f5-300e80b1a0e4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.30813581037796284
+   },
+   "model": "item/attractions/water/62168bf9-4e69-3c9b-833b-15f0d753335a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3087764253683536
+   },
+   "model": "item/attractions/water/30dd3184-d9d1-31f4-bbc4-04004dd70329"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3094170403587444
+   },
+   "model": "item/attractions/water/099682f9-d392-3d28-adb4-80243954ab91"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31005765534913515
+   },
+   "model": "item/attractions/water/7d632015-6ffb-3388-8ced-ca7a54df6891"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3106982703395259
+   },
+   "model": "item/attractions/water/09e764d7-bdfa-3244-a208-afea843bd283"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3113388853299167
+   },
+   "model": "item/attractions/water/9de6f716-0c38-3c79-aaae-1058702289d1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31197950032030747
+   },
+   "model": "item/attractions/water/3ba155df-d390-3a8b-8f8f-3e76a132a3f7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3126201153106983
+   },
+   "model": "item/attractions/water/9a3a768f-6b20-39ef-a784-c01a8ad82703"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31326073030108903
+   },
+   "model": "item/attractions/water/75b9de91-9b9d-36ef-a2ea-995b6497bd13"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3139013452914798
+   },
+   "model": "item/attractions/water/bfcc629a-f560-37ef-b6f3-18bc985361aa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3145419602818706
+   },
+   "model": "item/attractions/water/b018be95-8b95-3b03-bf26-99233f46b552"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31518257527226134
+   },
+   "model": "item/attractions/water/1ac7fc87-be11-36e0-b561-445cfff01141"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31582319026265215
+   },
+   "model": "item/attractions/water/fc9d5cac-b95d-3c49-8381-843a79bd144e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3164638052530429
+   },
+   "model": "item/attractions/water/f4aa5a6d-5334-363a-9fe0-532b3dc8e727"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31710442024343366
+   },
+   "model": "item/attractions/water/e99cf24a-0396-3819-97f2-0a9b2e7a4c50"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.31774503523382447
+   },
+   "model": "item/attractions/water/c699a65b-ce4e-3077-96c8-dbb9a1a2efdf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3183856502242152
+   },
+   "model": "item/attractions/water/ae907bb0-4bf4-31de-aca2-6722013e1882"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.319026265214606
+   },
+   "model": "item/attractions/water/0190d84e-a1e9-3b60-b03f-e7600013938b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3196668802049968
+   },
+   "model": "item/attractions/water/3427c228-e3ab-374b-919e-de95160ee37e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32030749519538754
+   },
+   "model": "item/attractions/water/fa3008f9-9491-36c7-a2b6-15e3cc1584d1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32094811018577835
+   },
+   "model": "item/attractions/water/6dc49ac4-9cf4-3862-9408-a073b74aeb6b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3215887251761691
+   },
+   "model": "item/attractions/water/57abddde-d482-3be6-85ba-a1334a677001"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32222934016655985
+   },
+   "model": "item/attractions/water/73ef03fb-62c7-35e5-aaa5-1d52db1c5e6d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32286995515695066
+   },
+   "model": "item/attractions/water/bf8448ce-dbb6-3463-a702-f3d937ffcb0e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3235105701473414
+   },
+   "model": "item/attractions/water/6b6e44b3-f6d1-337b-92b8-59d10fc76d23"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3241511851377322
+   },
+   "model": "item/attractions/water/32068d1b-09f8-378b-be29-dcf5cd07217d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.324791800128123
+   },
+   "model": "item/attractions/water/a62bbf24-f6fc-3c84-838b-3b932a766414"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32543241511851373
+   },
+   "model": "item/attractions/water/4e5faa27-76b6-3c99-9879-913ac3c7fcf8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32607303010890454
+   },
+   "model": "item/attractions/water/aecb25e9-f86c-3440-851c-a6abf0386685"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3267136450992953
+   },
+   "model": "item/attractions/water/08be4f2f-72eb-3508-bb4d-bc36141a43ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3273542600896861
+   },
+   "model": "item/attractions/water/087c32a2-bf09-397f-acd2-2656cd4934cf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32799487508007685
+   },
+   "model": "item/attractions/water/febada3e-39d0-319b-b9c8-e8d8def8cf1a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3286354900704676
+   },
+   "model": "item/attractions/water/38a7e21e-c49c-3361-9225-968daf7e910f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3292761050608584
+   },
+   "model": "item/attractions/water/bf4034db-8f14-3451-ace9-e801122afae0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.32991672005124917
+   },
+   "model": "item/attractions/water/230191c7-baa5-3a09-bd9b-688f9b913c30"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33055733504164
+   },
+   "model": "item/attractions/water/d0649bc4-3899-3f22-8aa0-afac897a73b9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33119795003203073
+   },
+   "model": "item/attractions/water/ae8880f9-948d-39ce-ac8a-b5a6ff6e627d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3318385650224215
+   },
+   "model": "item/attractions/water/b3cb7f0f-846c-3ba3-b2eb-c17627d9b31b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3324791800128123
+   },
+   "model": "item/attractions/water/fe56f6ac-d0e9-3c6c-b6f6-d4ffd91c5cd2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33311979500320305
+   },
+   "model": "item/attractions/water/1ca88b2e-1a91-3f68-8af0-7042ed7e2ebc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33376040999359385
+   },
+   "model": "item/attractions/water/8e8add0e-9d01-3cf4-94ba-496fbf5353ee"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3344010249839846
+   },
+   "model": "item/attractions/water/addb1aa5-9231-3301-aea4-6c27ae4a73ec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33504163997437536
+   },
+   "model": "item/attractions/water/44a9c276-ae98-35e6-9e74-461b2d5a2543"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33568225496476617
+   },
+   "model": "item/attractions/water/f03612dc-9bc4-32e0-a39f-87a635cb1316"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3363228699551569
+   },
+   "model": "item/attractions/water/25941f66-940c-3adf-b5b7-ad652ba765a5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33696348494554773
+   },
+   "model": "item/attractions/water/1df8c868-1633-39b1-b532-aaa94b8ed50d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3376040999359385
+   },
+   "model": "item/attractions/water/125d9266-f08a-3bdf-ba50-516365d58a8a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33824471492632924
+   },
+   "model": "item/attractions/water/a4327392-106c-3457-9e33-da6af010f3e8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.33888532991672005
+   },
+   "model": "item/attractions/water/ce24e561-620f-34f0-92fb-632620c349b2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3395259449071108
+   },
+   "model": "item/attractions/water/500758c3-0b0c-33ef-92dd-5cc783ee1d1a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34016655989750155
+   },
+   "model": "item/attractions/water/31be12b2-5e46-3d8c-8e21-f22ab1c01632"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34080717488789236
+   },
+   "model": "item/attractions/water/925fe1eb-1d3f-3db1-bb38-42453d2c45d8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3414477898782831
+   },
+   "model": "item/attractions/water/41039ebc-484d-35d5-94a1-d2c016cb0e71"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3420884048686739
+   },
+   "model": "item/attractions/water/df1e654a-e7a0-34f1-a00f-591a7e19c5ac"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3427290198590647
+   },
+   "model": "item/attractions/water/e71ca65c-8704-3fb0-87c8-4119ba3b992c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34336963484945543
+   },
+   "model": "item/attractions/water/2185e226-8d25-341b-8296-8abc09778ae8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34401024983984624
+   },
+   "model": "item/attractions/water/a61ff5ce-abe8-30e7-a749-7300a5c56060"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.344650864830237
+   },
+   "model": "item/attractions/water/ca75d105-4394-3b15-a5f2-792254fbcd40"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3452914798206278
+   },
+   "model": "item/attractions/water/57499ad3-d972-3019-99f6-171a495e2ecc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34593209481101855
+   },
+   "model": "item/attractions/water/f4b7d8d8-31cb-315a-9ca7-71b898bece10"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3465727098014093
+   },
+   "model": "item/attractions/water/f113b33c-9d20-3af7-bc6d-a24dca8f5c41"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3472133247918001
+   },
+   "model": "item/attractions/water/7cf05a72-47cb-30aa-a197-fe2c412b2034"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34785393978219087
+   },
+   "model": "item/attractions/water/04fe4b7d-200a-37e0-a306-b4a9119e4d63"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3484945547725817
+   },
+   "model": "item/attractions/water/c4102c69-0a37-34b7-a403-968604d24cb4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.34913516976297243
+   },
+   "model": "item/attractions/water/37900212-7a71-38da-9357-d5d91f114153"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3497757847533632
+   },
+   "model": "item/attractions/water/2b69ce58-c74c-3745-bcdc-f5e1e9e39897"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.350416399743754
+   },
+   "model": "item/attractions/water/534f2bea-7bb8-3fad-a628-d5d10da7ec40"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35105701473414475
+   },
+   "model": "item/attractions/water/300939bf-2fe8-39b9-81ca-5ec6ea55b38a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35169762972453555
+   },
+   "model": "item/attractions/water/7b1cd9da-65bb-3bff-8624-89833e5e39a6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3523382447149263
+   },
+   "model": "item/attractions/water/dea8137e-676f-3d7d-a215-d07b78dfb5c3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35297885970531706
+   },
+   "model": "item/attractions/water/1e6535e0-68e0-3dca-95ed-660f0f384eaf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35361947469570787
+   },
+   "model": "item/attractions/water/9e1da93e-6885-37a6-854a-8785c6ce6944"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3542600896860986
+   },
+   "model": "item/attractions/water/0edbfc0c-59e2-36df-9c16-cbd527c09df1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35490070467648943
+   },
+   "model": "item/attractions/water/1944d944-f771-38f6-adb5-c9e519008fca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3555413196668802
+   },
+   "model": "item/attractions/water/95ab1ad8-6ca1-3c5e-a344-bca9e49b597f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35618193465727094
+   },
+   "model": "item/attractions/water/0c833fb3-7afd-37f2-80a9-3dd3d4d589ad"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35682254964766175
+   },
+   "model": "item/attractions/water/28f40a95-b015-31df-a587-a1c9026c767c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3574631646380525
+   },
+   "model": "item/attractions/water/d403d4db-054c-3e1f-9b6d-9d7d8c03e20b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3581037796284433
+   },
+   "model": "item/attractions/water/c9043776-0956-34d2-a9a9-b482723eb87a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.35874439461883406
+   },
+   "model": "item/attractions/water/e8fc699d-e85e-3922-90b6-d6834dc5f00b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3593850096092248
+   },
+   "model": "item/attractions/water/6ca5b39c-03a4-36d4-aa11-9d5bde5af4ec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3600256245996156
+   },
+   "model": "item/attractions/water/f7ee7610-ad11-3821-ab8b-842a91d764d5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3606662395900064
+   },
+   "model": "item/attractions/water/fa35170f-d004-3049-803a-4d66a5dec2cd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3613068545803972
+   },
+   "model": "item/attractions/water/867671e7-4306-31d5-837e-0ed8c3090ef7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.36194746957078794
+   },
+   "model": "item/attractions/water/fd6c5346-ee1b-377e-b87e-a4b3d5407610"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3625880845611787
+   },
+   "model": "item/attractions/water/e687c54e-2c64-31d3-ab78-3e5e056f0944"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3632286995515695
+   },
+   "model": "item/attractions/water/660a2619-c7a3-36ef-add0-9b21e8ae3ae5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.36386931454196025
+   },
+   "model": "item/attractions/water/138324b1-420d-3e44-97d4-01dcb587d025"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.364509929532351
+   },
+   "model": "item/attractions/water/2873c195-2d2b-3bbf-9619-f2488170353a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3651505445227418
+   },
+   "model": "item/attractions/water/f78610c8-44ae-3e77-86e7-03c2bc4bbb88"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.36579115951313257
+   },
+   "model": "item/attractions/water/ac27b8f8-a1f6-37c3-b569-1bcdab846071"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3664317745035234
+   },
+   "model": "item/attractions/water/17ba1c34-c230-3daa-83f5-56293a74d567"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.36707238949391413
+   },
+   "model": "item/attractions/water/219b51a2-60a9-3e79-bff0-b4408abbac07"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3677130044843049
+   },
+   "model": "item/attractions/water/e51613be-6c73-3550-a5da-d69a469a77b9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.370275464445868
+   },
+   "model": "item/attractions/water/fc1651e7-aa79-3770-8b47-c31516d7114f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37091607943625876
+   },
+   "model": "item/attractions/water/49d4c598-ce98-3ac5-9994-2fa13b1e3a06"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37155669442664957
+   },
+   "model": "item/attractions/water/7eca576e-aaa4-3b54-899f-09d85d9177e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3721973094170403
+   },
+   "model": "item/attractions/water/99e04c2f-9b75-3684-8039-e52aa38c9cb2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37283792440743113
+   },
+   "model": "item/attractions/water/2c8c13ba-167e-3875-8e43-87cdb7cdf361"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3734785393978219
+   },
+   "model": "item/attractions/water/cbe63acf-4d66-31fa-be03-4b4f2f61f464"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37411915438821264
+   },
+   "model": "item/attractions/water/51ccc525-7a96-3fea-bdaa-4b3d673a4086"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37475976937860345
+   },
+   "model": "item/attractions/water/574b9def-65a4-343b-9445-11628d97a6ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3754003843689942
+   },
+   "model": "item/attractions/water/cb771d5e-8a19-3a2f-9e66-ed897e8dd859"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.376040999359385
+   },
+   "model": "item/attractions/water/67485661-db20-3940-8e65-8fe657193f26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37668161434977576
+   },
+   "model": "item/attractions/water/7d5924aa-554f-37c7-b70c-36fbd6cbc8db"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3773222293401665
+   },
+   "model": "item/attractions/water/a7329e4c-ffc8-3413-99ee-7d728aa09bee"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3779628443305573
+   },
+   "model": "item/attractions/water/40fe66f4-a96c-3a88-9128-4e348f95dc72"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3786034593209481
+   },
+   "model": "item/attractions/water/0f32f59f-95e2-32b7-8441-eb51b1ffc002"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3792440743113389
+   },
+   "model": "item/attractions/water/48c7aebd-52ae-3b20-8de9-a81cc3c71093"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.37988468930172964
+   },
+   "model": "item/attractions/water/c5ea99fc-f728-3da4-aaaa-ad802989c1aa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3805253042921204
+   },
+   "model": "item/attractions/water/e3a995e0-9591-3671-bfc9-32aa096b7b17"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3811659192825112
+   },
+   "model": "item/attractions/water/a89a39e1-e67c-31ef-b56d-8d6f90764f93"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38180653427290195
+   },
+   "model": "item/attractions/water/c36bc7aa-e26e-3801-8226-e6ff1cc53152"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38244714926329276
+   },
+   "model": "item/attractions/water/b167d62a-de5b-3e1b-bb8d-ddd62c273e5f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3830877642536835
+   },
+   "model": "item/attractions/water/22aca5c7-062a-3096-8354-48c733dcb601"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38372837924407427
+   },
+   "model": "item/attractions/water/bbb6d16a-cbd1-3199-975a-a77282cea32e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3843689942344651
+   },
+   "model": "item/attractions/water/e1065814-6273-36b3-83aa-5be62bf576bc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38500960922485583
+   },
+   "model": "item/attractions/water/8efa1323-d037-3542-b981-c6839a6b7982"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38565022421524664
+   },
+   "model": "item/attractions/water/8886bdc9-d5d8-37bb-af2a-16788210a359"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3862908392056374
+   },
+   "model": "item/attractions/water/ac034201-c01b-339c-9282-344021115dc6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38693145419602815
+   },
+   "model": "item/attractions/water/000e6a4b-421b-3470-a9f1-1ccafee301ca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38757206918641895
+   },
+   "model": "item/attractions/water/2e590392-feaa-3214-9dee-c3a2e88332e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3882126841768097
+   },
+   "model": "item/attractions/water/9605b874-6d30-379a-9cf1-59cefd3cc768"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38885329916720046
+   },
+   "model": "item/attractions/water/c1538ee4-46b5-3894-8227-539ccfbcba1c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.38949391415759127
+   },
+   "model": "item/attractions/water/41f30bd3-2629-37fd-9ac7-52ded79b5e12"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39077514413837283
+   },
+   "model": "item/attractions/water/859781b9-93ae-3403-963d-1265eb69fd83"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3914157591287636
+   },
+   "model": "item/attractions/water/d2480c0b-9968-3dec-8372-1d1bc92fc2fd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39205637411915434
+   },
+   "model": "item/attractions/water/582dcd54-f4c9-3005-b11b-a14ffc606a65"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39269698910954515
+   },
+   "model": "item/attractions/water/7902edd6-5d93-3da6-af05-9b801fe5af47"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3933376040999359
+   },
+   "model": "item/attractions/water/81f9c569-08a6-37d3-80c5-c03b5b7ce438"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3939782190903267
+   },
+   "model": "item/attractions/water/c0060a10-c7d4-30d9-9040-a984bfcc40e3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39461883408071746
+   },
+   "model": "item/attractions/water/af76c2fe-b0b7-3776-9a39-eaa6d0fcf453"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3952594490711082
+   },
+   "model": "item/attractions/water/697b052a-4738-37da-ab4c-37c1fa56be11"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.395900064061499
+   },
+   "model": "item/attractions/water/ce36e5a6-87e3-3c61-aa21-1a3997628d2a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3965406790518898
+   },
+   "model": "item/attractions/water/7d589d5e-f297-35c4-82f0-86c0c6d051ec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3971812940422806
+   },
+   "model": "item/attractions/water/d5cc4f4e-170c-3435-8dcb-e568278c4cd2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39782190903267134
+   },
+   "model": "item/attractions/water/0a5b0254-5193-3e07-8731-d754552fd29f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3984625240230621
+   },
+   "model": "item/attractions/water/0192867b-6a8e-3862-a07d-1e9ac946d309"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.3991031390134529
+   },
+   "model": "item/attractions/water/b9bcf611-984b-3373-a2f8-9bf56e95eff6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.39974375400384365
+   },
+   "model": "item/attractions/water/4849f81d-2cdd-3b25-8f6c-ee7a1615c26a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40038436899423446
+   },
+   "model": "item/attractions/water/42c3a46b-13da-3ae4-bb0d-cb4d7e7d725b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4010249839846252
+   },
+   "model": "item/attractions/water/1ca85d7c-1931-336a-8feb-9af5677740a0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40166559897501597
+   },
+   "model": "item/attractions/water/ed9fe0f8-267d-3762-bb54-75192c3f71b6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4023062139654068
+   },
+   "model": "item/attractions/water/82298e31-6209-3fc0-8df6-2657e9598b9b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40294682895579753
+   },
+   "model": "item/attractions/water/89cb6944-d07b-34dd-9035-503e4986c0b1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40358744394618834
+   },
+   "model": "item/attractions/water/2f9b01c0-fc9e-3d3c-8ac8-6f5e79b0e206"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4042280589365791
+   },
+   "model": "item/attractions/water/3faf3c40-c21c-348a-a255-6505e59f0c3f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40486867392696985
+   },
+   "model": "item/attractions/water/61dfa408-d399-3b41-b803-2bc6074dcff4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40550928891736066
+   },
+   "model": "item/attractions/water/5c4f6d58-3773-377f-ab64-07547b765ae5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4061499039077514
+   },
+   "model": "item/attractions/water/2ae9ac00-9db6-3f22-8d18-e8e9e2567be3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4067905188981422
+   },
+   "model": "item/attractions/water/b43dd750-653c-37ad-8137-2b7eda989547"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40743113388853297
+   },
+   "model": "item/attractions/water/0d407046-fd19-3814-86da-78d6bd3ad6bb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4080717488789237
+   },
+   "model": "item/attractions/water/6d315d2b-bfae-3d4d-93d6-c7ed2288f4fa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40871236386931453
+   },
+   "model": "item/attractions/water/e17ab03f-bbf3-39b9-a393-28028598809a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4093529788597053
+   },
+   "model": "item/attractions/water/f60e0d8f-6ff9-3b4a-9aa8-eb3a6a8343a0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.40999359385009604
+   },
+   "model": "item/attractions/water/163b0507-e58e-39d0-a5ce-e77ccc4d06f3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41063420884048685
+   },
+   "model": "item/attractions/water/091f0ee5-e754-307a-a557-421759de4ccd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4112748238308776
+   },
+   "model": "item/attractions/water/cdf8fa00-439f-381a-8b11-667f67db2117"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4119154388212684
+   },
+   "model": "item/attractions/water/6848de98-ffea-3735-9fa6-420c5a2077dc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41255605381165916
+   },
+   "model": "item/attractions/water/768bc9c1-516d-374c-86db-de9fca47e504"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4131966688020499
+   },
+   "model": "item/attractions/water/4452132a-0609-38ec-8aab-a68e78bd1e5f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4138372837924407
+   },
+   "model": "item/attractions/water/975cef9c-101f-38aa-9adf-f92a00feb285"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4144778987828315
+   },
+   "model": "item/attractions/water/10e356a3-c17b-31bc-bdb1-699cbf3bcf2c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4151185137732223
+   },
+   "model": "item/attractions/water/c9589328-7de2-394d-b2cf-2619e25066d5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41575912876361304
+   },
+   "model": "item/attractions/water/37fb6c3a-2f80-332e-baa4-3824d4050fb6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4163997437540038
+   },
+   "model": "item/attractions/water/8c179c1d-16d9-3751-bf9b-d4e814c88610"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4170403587443946
+   },
+   "model": "item/attractions/water/1e086146-5647-321a-91bb-204944a3f24c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41768097373478535
+   },
+   "model": "item/attractions/water/cbe51ce6-73a6-38ab-bd48-cbb446790ec5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41832158872517616
+   },
+   "model": "item/attractions/water/f64a28a2-2e92-3216-8946-cf1b9122ab17"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4189622037155669
+   },
+   "model": "item/attractions/water/7e1fb90a-5d73-3f10-9620-1cd8f16f50ec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.41960281870595767
+   },
+   "model": "item/attractions/water/15fbddfb-1e61-3c8c-a6ce-c4b5575ef6f9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4202434336963485
+   },
+   "model": "item/attractions/water/76482b97-c436-3120-9e1c-351e0e4461b6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42088404868673923
+   },
+   "model": "item/attractions/water/c9601ae7-bb7e-306a-8aa9-6412e4dbf83a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42152466367713004
+   },
+   "model": "item/attractions/water/30ae99fe-735e-3200-bbf0-f2aa3f533b0f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4221652786675208
+   },
+   "model": "item/attractions/water/fe7a0936-9d28-3182-8fc5-c2ae9c93726e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42280589365791155
+   },
+   "model": "item/attractions/water/452375bf-a418-3edd-927a-8859e6589482"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42344650864830236
+   },
+   "model": "item/attractions/water/5a0ac173-dacb-3700-afa5-1763a0396482"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4240871236386931
+   },
+   "model": "item/attractions/water/d7980411-c68a-34df-9d11-243af587bd9c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4247277386290839
+   },
+   "model": "item/attractions/water/ffa784ad-db34-34d1-b15f-4ddf93fdf3a4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42536835361947467
+   },
+   "model": "item/attractions/water/287f9742-d1f2-3c31-93fe-3c67efb6f609"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4260089686098654
+   },
+   "model": "item/attractions/water/fc519836-79d5-3647-842c-39039e975fdd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42664958360025623
+   },
+   "model": "item/attractions/water/212ed0cf-e977-3015-b0ce-1a5bfcf99734"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.427290198590647
+   },
+   "model": "item/attractions/water/a3160845-ed99-3dec-9e2c-2805709e356a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4279308135810378
+   },
+   "model": "item/attractions/water/3322fd79-ff62-3b65-8a5b-70d4a666f3f7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.42857142857142855
+   },
+   "model": "item/attractions/water/d87dd22f-8ca6-36de-a3c9-105e1c093a1c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4292120435618193
+   },
+   "model": "item/attractions/water/d1ae7387-0bad-3c26-aa2e-f3c66947bcb7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4298526585522101
+   },
+   "model": "item/attractions/water/b1ef9b1f-20c7-3980-a9ef-c2c20d6805c0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43049327354260086
+   },
+   "model": "item/attractions/water/0838d9ce-c64e-31c5-a4ff-07bafff0742f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43113388853299167
+   },
+   "model": "item/attractions/water/ece391c8-f3ee-3a20-88bb-d0ce00c0d0ea"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4317745035233824
+   },
+   "model": "item/attractions/water/2720797e-fc52-3cff-8d2e-69a37c86a122"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4324151185137732
+   },
+   "model": "item/attractions/water/eaf416ed-2785-3472-a0dd-2ee7105c0452"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.433055733504164
+   },
+   "model": "item/attractions/water/db4312bf-e888-318a-9013-1e9ab0e27bf4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43369634849455474
+   },
+   "model": "item/attractions/water/efbda93a-623b-30ba-8810-096079d1abd5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4343369634849455
+   },
+   "model": "item/attractions/water/c215499f-31dc-3b9a-a9f9-fdd748780a26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4349775784753363
+   },
+   "model": "item/attractions/water/7a1caa4c-29b5-38bd-b3e5-1036dd3c5b06"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43561819346572705
+   },
+   "model": "item/attractions/water/9d30fcc9-14ab-36bf-b53c-d150a3a2d653"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43625880845611786
+   },
+   "model": "item/attractions/water/e6af673a-e926-3033-be08-a6afda0b687a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4368994234465086
+   },
+   "model": "item/attractions/water/ebaa0741-278e-34c6-8a19-160efaef1a71"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43754003843689937
+   },
+   "model": "item/attractions/water/48f6ca5c-c09f-3f96-a91b-7a980993774b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4381806534272902
+   },
+   "model": "item/attractions/water/44e5914e-0421-3af1-9334-b79bcef7f9a3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43882126841768093
+   },
+   "model": "item/attractions/water/0a926370-50c9-3ab2-ad1c-621f64c70b26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.43946188340807174
+   },
+   "model": "item/attractions/water/ee79b06c-e7c7-30f5-aebe-0dfa8adb920e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4401024983984625
+   },
+   "model": "item/attractions/water/abae1838-a209-367d-8cb5-c7fbb21b881a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44074311338885325
+   },
+   "model": "item/attractions/water/85add405-3410-326e-9214-952a03d315e9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44138372837924406
+   },
+   "model": "item/attractions/water/25a2d5a2-2951-36e0-b8ea-f9b012adfe47"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4420243433696348
+   },
+   "model": "item/attractions/water/36c618c3-971f-3a2c-bd9e-d72cc9289aa8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4426649583600256
+   },
+   "model": "item/attractions/water/f7ea01eb-43aa-3821-bfe5-4cfb1b4f1002"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44330557335041637
+   },
+   "model": "item/attractions/water/78752e98-3d58-317f-a6fd-4477b196844b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4439461883408071
+   },
+   "model": "item/attractions/water/43ebd380-2c0d-37a6-b2a0-bcb0bf77b24d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44458680333119793
+   },
+   "model": "item/attractions/water/631fcdef-315f-3a56-8043-8d0f97f15473"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4452274183215887
+   },
+   "model": "item/attractions/water/297e461e-9485-38f3-a821-e60c9d88dff4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4458680333119795
+   },
+   "model": "item/attractions/water/5b6bfe69-57d0-3db1-b1e0-5deb71396d51"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44650864830237025
+   },
+   "model": "item/attractions/water/8b023fb5-34f7-378b-9b29-df5ee6ce326d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.447149263292761
+   },
+   "model": "item/attractions/water/d13a5804-f3d0-3b20-8bae-51f2c1e955c6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4477898782831518
+   },
+   "model": "item/attractions/water/50ba315e-3f0c-3e95-a982-1e81496d74b3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44843049327354256
+   },
+   "model": "item/attractions/water/dbc58a04-8280-3c58-af65-b4d4a2bf50b7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.44907110826393337
+   },
+   "model": "item/attractions/water/160e6fef-2fd4-3de1-abfb-7839cefeb9ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4497117232543241
+   },
+   "model": "item/attractions/water/c0b51f7e-c13a-3298-bda3-e428de827eb9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4503523382447149
+   },
+   "model": "item/attractions/water/4ab01401-230b-3a47-8488-9c67a8c23752"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4509929532351057
+   },
+   "model": "item/attractions/water/3eb7e675-acd8-3876-8c20-c0c29337af60"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45163356822549644
+   },
+   "model": "item/attractions/water/6c1f33e4-a462-3d6d-a4a4-fcbb67f3f28d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45227418321588725
+   },
+   "model": "item/attractions/water/308501fe-ee86-3bbf-84a2-5e8e6b400b6a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.452914798206278
+   },
+   "model": "item/attractions/water/9a453c1f-083b-302c-af18-e0c5dde2b65f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45355541319666876
+   },
+   "model": "item/attractions/water/39e33942-000e-3451-93f6-41b936948040"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45419602818705956
+   },
+   "model": "item/attractions/water/1fa55074-5f5d-3973-aaa0-3771022ca1a6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4548366431774503
+   },
+   "model": "item/attractions/water/8afca0cd-2ee7-344d-a1b7-da10dabd88ad"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4554772581678411
+   },
+   "model": "item/attractions/water/d8417aab-643a-3f4f-8fc5-3027d9ce9572"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4561178731582319
+   },
+   "model": "item/attractions/water/0c9b79cf-a989-36b7-a0e4-5a479b45f22a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45675848814862263
+   },
+   "model": "item/attractions/water/b3bb0062-6333-34ec-8c6e-0e3cb27ee056"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45739910313901344
+   },
+   "model": "item/attractions/water/2678be64-573c-3f11-915b-e5a21e58435d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4580397181294042
+   },
+   "model": "item/attractions/water/bd4cb2c3-f2fc-3f69-92f4-5a6a7ebe9f11"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45868033311979495
+   },
+   "model": "item/attractions/water/9e58b948-32b8-338c-88c4-8360b04d4f9c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.45932094811018576
+   },
+   "model": "item/attractions/water/201293c2-6fa9-35e1-9c11-a0b9460d7e52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4599615631005765
+   },
+   "model": "item/attractions/water/5cb4fdee-f96a-3bf8-bd8d-3d6557f80988"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4606021780909673
+   },
+   "model": "item/attractions/water/bb44190f-086d-30e7-b6f4-bf7f255cbef2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46124279308135807
+   },
+   "model": "item/attractions/water/5beb7282-f9c3-3da4-8986-73e624c04168"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4618834080717488
+   },
+   "model": "item/attractions/water/4b06a6a2-4f51-345d-8e35-945ca6cb36c1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46252402306213963
+   },
+   "model": "item/attractions/water/60f03fd3-a6f0-3482-8f0e-91712b3e72f9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4631646380525304
+   },
+   "model": "item/attractions/water/351d416f-4fd3-3c66-8002-b8581d5eb61b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4638052530429212
+   },
+   "model": "item/attractions/water/722ddf6e-2a00-3ddb-a940-4fcb71454514"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46444586803331195
+   },
+   "model": "item/attractions/water/3f317610-e146-3ab0-b7ff-ba3fc12d2a19"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4650864830237027
+   },
+   "model": "item/attractions/water/ec2019be-ad7f-3ee2-9362-0211c8dba85b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4657270980140935
+   },
+   "model": "item/attractions/water/7ff19c02-045a-3e24-8b15-b09e827af303"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46636771300448426
+   },
+   "model": "item/attractions/water/1c2a59ed-5f41-33e7-9b89-c65b939774c3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46700832799487507
+   },
+   "model": "item/attractions/water/32d6d218-ccff-30fe-be9b-74601dff2ff4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4676489429852658
+   },
+   "model": "item/attractions/water/81a38b4d-55e5-32d5-89d4-78a482a470b9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4682895579756566
+   },
+   "model": "item/attractions/water/76f234d2-3a75-36e9-b8cd-628d4811b48b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4689301729660474
+   },
+   "model": "item/attractions/water/4fc53a26-689e-3995-8f97-649e5fcce28a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.46957078795643814
+   },
+   "model": "item/attractions/water/70073136-c71b-30e2-9e74-969111573658"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47021140294682895
+   },
+   "model": "item/attractions/water/8ce52911-e23f-37ba-a76c-47c25620327a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4708520179372197
+   },
+   "model": "item/attractions/water/b5371657-b1ae-359f-ad4f-deba10b0ead7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47149263292761046
+   },
+   "model": "item/attractions/water/efe7e72a-eb44-3588-afe4-7d2d28b37fa3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47213324791800126
+   },
+   "model": "item/attractions/water/5d787d1c-3ad6-3575-845e-efe211eddb4a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.472773862908392
+   },
+   "model": "item/attractions/water/65b7974f-b070-37a4-9159-c14d7b56a931"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4734144778987828
+   },
+   "model": "item/attractions/water/53f25ed1-0fe4-3abc-8101-99a2f3ad729a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4740550928891736
+   },
+   "model": "item/attractions/water/0848aef8-c344-324d-944c-2d215f1762bf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47469570787956433
+   },
+   "model": "item/attractions/water/ff460599-f707-3e95-9bcd-c6996eb92cf2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47533632286995514
+   },
+   "model": "item/attractions/water/83c829ae-c647-3931-bef2-82bfb6a569af"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4759769378603459
+   },
+   "model": "item/attractions/water/0cedcf7e-362b-3f97-9039-7e608bb2c933"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4766175528507367
+   },
+   "model": "item/attractions/water/67062c27-066b-38dc-9197-84bd538865fc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47725816784112746
+   },
+   "model": "item/attractions/water/6dc6015e-df93-38d0-977c-45899402c39e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4778987828315182
+   },
+   "model": "item/attractions/water/1ba0e5bc-0488-33a4-839f-b4f7ef9bfc1c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.478539397821909
+   },
+   "model": "item/attractions/water/af0beb24-b5aa-37cf-b9e3-22d3dbd766bd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.47918001281229977
+   },
+   "model": "item/attractions/water/64f33155-aea6-3490-99a4-03ff05f6a59f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4798206278026906
+   },
+   "model": "item/attractions/water/825df12e-505f-33c3-89fe-9be4dfeb698d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48046124279308133
+   },
+   "model": "item/attractions/water/29610799-7232-3af4-834b-5787b08a6004"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4811018577834721
+   },
+   "model": "item/attractions/water/72b69df4-334a-361b-a666-8bb0a70c292a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4817424727738629
+   },
+   "model": "item/attractions/water/1a58a7ee-8d8d-3130-b76f-a2b7bd6053ba"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48238308776425365
+   },
+   "model": "item/attractions/water/c35cbf8b-460e-39e0-ad13-c5f1f1d114ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4830237027546444
+   },
+   "model": "item/attractions/water/066e7d3a-117f-3812-8843-aa54a3652980"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4836643177450352
+   },
+   "model": "item/attractions/water/b95caa0f-737e-3802-87c9-27a9515ce1ea"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48430493273542596
+   },
+   "model": "item/attractions/water/58bd51a3-d749-34bc-adfa-25eeccca4654"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4849455477258168
+   },
+   "model": "item/attractions/water/37565382-ff16-3167-b658-8a75254c70d2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4855861627162075
+   },
+   "model": "item/attractions/water/b469ef09-3197-3a7d-8d00-b77f1f807345"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4862267777065983
+   },
+   "model": "item/attractions/water/37d30da0-aa36-3d89-9f4f-142b7432a8ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4868673926969891
+   },
+   "model": "item/attractions/water/fdef5499-8272-30c6-ab81-0c7432d518dd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48750800768737984
+   },
+   "model": "item/attractions/water/63101c41-fec2-3c28-847d-fccbf0fd862f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48814862267777065
+   },
+   "model": "item/attractions/water/4140414e-a3a1-3af1-9b9a-f32007ada109"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4887892376681614
+   },
+   "model": "item/attractions/water/5f9d2f2a-2338-3c8f-9e3a-5d21b33445f1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.48942985265855216
+   },
+   "model": "item/attractions/water/1ba2c36d-3a1e-3d81-a92e-bb96b5ad5224"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49007046764894296
+   },
+   "model": "item/attractions/water/49a1392a-de82-357c-9045-d114d0b105d4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4907110826393337
+   },
+   "model": "item/attractions/water/58c92754-2096-3fbd-a1cd-0137a3e2a48e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4913516976297245
+   },
+   "model": "item/attractions/water/f03cb00d-8b0b-3ed4-8141-88f53e90f49c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4919923126201153
+   },
+   "model": "item/attractions/water/2f37381f-5c5a-3014-b1a3-d305a8fd7f1c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49263292761050603
+   },
+   "model": "item/attractions/water/2a405530-26f7-3a5b-995e-1d24a59d06dc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49327354260089684
+   },
+   "model": "item/attractions/water/cf851721-7935-3813-8d32-2155342a2a9d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4939141575912876
+   },
+   "model": "item/attractions/water/13ef6fd2-ccb5-339a-ba46-7f070c7dc24f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4945547725816784
+   },
+   "model": "item/attractions/water/bab009a7-a29b-3a20-a6ab-05e94d856ee8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49519538757206916
+   },
+   "model": "item/attractions/water/02f1c939-14eb-37d7-bc53-f77a695963e4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4958360025624599
+   },
+   "model": "item/attractions/water/e2cb0d49-544d-36f4-8446-b20365e661ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4964766175528507
+   },
+   "model": "item/attractions/water/a9f6a613-cd78-3d63-8873-297a05ca89ca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49711723254324147
+   },
+   "model": "item/attractions/water/0b55e040-4a93-3518-9d82-09e8f69f08bc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4977578475336323
+   },
+   "model": "item/attractions/water/0c91d69a-cac8-303d-88ad-7d08c3ff51f0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.49839846252402303
+   },
+   "model": "item/attractions/water/81f8a34c-6878-3c03-b46b-f8b42037210a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4990390775144138
+   },
+   "model": "item/attractions/water/1f8a52bd-f5e8-37d5-a0eb-d6384e32a069"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.4996796925048046
+   },
+   "model": "item/attractions/water/b438d058-798a-3fac-b00a-0fe91e4f141b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5003203074951954
+   },
+   "model": "item/attractions/water/ff9d98f6-f586-327b-ba73-5dd30e0fcadb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5009609224855861
+   },
+   "model": "item/attractions/water/f2cd9457-a58e-39cf-ad85-85dc9cb0380a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5016015374759769
+   },
+   "model": "item/attractions/water/666c6a6c-a1c7-30d3-9b7d-61216d031035"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5022421524663677
+   },
+   "model": "item/attractions/water/37da41e2-bb8c-3b0e-b4da-712d7e86b410"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5028827674567584
+   },
+   "model": "item/attractions/water/3d0a3e24-fe49-3f00-8a4c-0326fa976d7b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5035233824471492
+   },
+   "model": "item/attractions/water/b7ec3b22-7f8f-3919-b1e6-fc784f58febd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.50416399743754
+   },
+   "model": "item/attractions/water/3a8f5a76-304c-3a73-be89-9df5a11106d8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5048046124279307
+   },
+   "model": "item/attractions/water/accab62b-8c05-33e1-a6d9-256d41d69487"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5054452274183215
+   },
+   "model": "item/attractions/water/24cafbda-56b8-3723-bc1a-f6e4d45ded50"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5060858424087123
+   },
+   "model": "item/attractions/water/aaf2dd07-7888-381b-8fd0-5884ef67aaf6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5067264573991032
+   },
+   "model": "item/attractions/water/12f0d942-11bc-38ee-8c4e-ff47cdd1204a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5073670723894939
+   },
+   "model": "item/attractions/water/4b65a565-db5e-3836-b995-5e2366eaf736"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5080076873798847
+   },
+   "model": "item/attractions/water/3ed189ec-5784-3013-9013-b3e521b2bbbe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5086483023702755
+   },
+   "model": "item/attractions/water/2d6ce8a5-8141-3d1b-ae94-207f0427892c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5092889173606662
+   },
+   "model": "item/attractions/water/2b8d6bcc-31e5-3f58-b12f-47cd924da4d1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.509929532351057
+   },
+   "model": "item/attractions/water/87cea440-7f5c-3946-9dcd-36c63803db57"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5105701473414478
+   },
+   "model": "item/attractions/water/b10857af-830e-3252-bcb8-885e50f69973"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5112107623318385
+   },
+   "model": "item/attractions/water/396d29db-5636-31d4-ac47-3eb1293a0d9f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5118513773222293
+   },
+   "model": "item/attractions/water/ceb7187d-5bf2-3f9a-8083-caf4febe1457"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5124919923126201
+   },
+   "model": "item/attractions/water/90d9466c-4b95-3902-99d2-d4ebd30bdd5a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5131326073030109
+   },
+   "model": "item/attractions/water/0af80519-e81e-3d87-8510-e2ca7575f4cf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5137732222934016
+   },
+   "model": "item/attractions/water/b0e83e42-aaf7-3f64-ac90-cd4a8eee2d1e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5144138372837924
+   },
+   "model": "item/attractions/water/a1cf4c99-9f40-3d01-8428-8d2ac4dcf4e4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5150544522741832
+   },
+   "model": "item/attractions/water/7d730b99-610e-39ad-897a-3787b9304799"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5156950672645739
+   },
+   "model": "item/attractions/water/ca748e68-67ae-3db1-b583-894f24bc0e7a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5163356822549647
+   },
+   "model": "item/attractions/water/87e74f7f-c63b-3b9c-9ede-aad3bb588067"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5169762972453555
+   },
+   "model": "item/attractions/water/d94a6373-481f-34f4-9ad6-3ac2dfa1a52c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5176169122357462
+   },
+   "model": "item/attractions/water/581539ed-3d2e-31c8-bd0e-659c6167fbe2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.518257527226137
+   },
+   "model": "item/attractions/water/07dc5ec5-9db6-3b27-9228-627f2bdc5881"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5188981422165279
+   },
+   "model": "item/attractions/water/918c8542-af85-3abe-84ba-cf62f6d85f2e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5195387572069186
+   },
+   "model": "item/attractions/water/dc37d5dc-7ddb-3637-b85d-94becb60e2bd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5201793721973094
+   },
+   "model": "item/attractions/water/a5bfa53d-fd78-3751-a98a-592584f8fb97"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5208199871877002
+   },
+   "model": "item/attractions/water/312454c7-c5f8-39ff-8d1f-b9653aef2527"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.521460602178091
+   },
+   "model": "item/attractions/water/eab62200-2f48-36f3-96b4-cee467446f60"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5221012171684817
+   },
+   "model": "item/attractions/water/2a62a809-1b3b-3720-9741-da677d3e9f35"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5227418321588725
+   },
+   "model": "item/attractions/water/a68776c5-5f33-39ec-b127-8e4f0ac54c7b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5233824471492633
+   },
+   "model": "item/attractions/water/8e807f72-0ea3-30d8-a416-63dcb3c4c67c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.524023062139654
+   },
+   "model": "item/attractions/water/cceb6f4b-eb5b-324a-9d20-09d642e9a5a2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5246636771300448
+   },
+   "model": "item/attractions/water/918aa823-28f7-31da-92a8-96e7b42aa63c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5253042921204356
+   },
+   "model": "item/attractions/water/f0e338c3-988c-3127-8cd0-aff997eb2cfb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5259449071108263
+   },
+   "model": "item/attractions/water/2a9df062-d319-3e3d-8613-3abc9feeebde"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5265855221012171
+   },
+   "model": "item/attractions/water/9621c3ac-64ec-3e06-a55a-2546e73263ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5272261370916079
+   },
+   "model": "item/attractions/water/3e340aa7-e0f0-3b41-883a-328c88ade027"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5278667520819987
+   },
+   "model": "item/attractions/water/ed21cbf6-9abc-3380-9566-8265e47197f0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5285073670723894
+   },
+   "model": "item/attractions/water/8914888e-85bd-313b-a054-2d1921251c0b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5291479820627802
+   },
+   "model": "item/attractions/water/83644a76-79de-3372-9415-884471e9b3e8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.529788597053171
+   },
+   "model": "item/attractions/water/b4d47f4e-6390-3484-a322-57a185b6f9e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5304292120435617
+   },
+   "model": "item/attractions/water/c3d3268d-ba31-34a5-a3f3-f3e699b4eedd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5310698270339526
+   },
+   "model": "item/attractions/water/d88fcbf0-9df0-3bc5-822e-4b560b884db5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5317104420243434
+   },
+   "model": "item/attractions/water/a904ad62-c060-3b21-8d8c-13ffef8cb20e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5323510570147341
+   },
+   "model": "item/attractions/water/dfe0fb40-79ab-3c55-a3ca-3d15da0e0bb9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5329916720051249
+   },
+   "model": "item/attractions/water/6b9f6569-372b-3dac-b5b9-0615335bc183"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5336322869955157
+   },
+   "model": "item/attractions/water/be555bec-ed5d-38ad-9757-35f2a08bf8ff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5342729019859065
+   },
+   "model": "item/attractions/water/e777cae4-a23f-3025-92a4-5bcc39e30e4b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5349135169762972
+   },
+   "model": "item/attractions/water/dcd37fca-31a8-382e-978b-7ce2c73ecd26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.535554131966688
+   },
+   "model": "item/attractions/water/367eeb67-6bf5-38cf-b292-2a2eb846c9d9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5361947469570788
+   },
+   "model": "item/attractions/water/243f0f5b-9ad7-3c52-aa8e-4dec4b7c76fb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5368353619474695
+   },
+   "model": "item/attractions/water/8836f914-a179-3f7a-8498-d6b932b37f7b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5374759769378603
+   },
+   "model": "item/attractions/water/c02ec9d4-e1e7-3bd4-869a-647e812db17a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5381165919282511
+   },
+   "model": "item/attractions/water/5f3c5305-32fe-3905-8f87-b216679c5298"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5387572069186418
+   },
+   "model": "item/attractions/water/f11b58e8-3b9f-364f-bb49-e06f5a544269"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5393978219090326
+   },
+   "model": "item/attractions/water/b4c3aec1-7fae-3d4c-8b5b-19f616ebf4b1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5400384368994234
+   },
+   "model": "item/attractions/water/9a1e0220-1390-3866-b196-dfbf643dcce2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5406790518898141
+   },
+   "model": "item/attractions/water/1af1354b-7ebe-38d4-b57b-6865948a0abe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5413196668802049
+   },
+   "model": "item/attractions/water/5347c4ea-c20a-3aaa-bc11-d27b937e68e8"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5419602818705958
+   },
+   "model": "item/attractions/water/16139f1a-a1f3-39e1-aafe-91e177a1cc8a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5426008968609866
+   },
+   "model": "item/attractions/water/3dbea5ce-4a31-3390-9529-5af0807f1fba"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5432415118513773
+   },
+   "model": "item/attractions/water/9aa6bbd3-509f-3b9b-8a1d-83c386442cad"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5438821268417681
+   },
+   "model": "item/attractions/water/87b834e6-cf64-309d-8bee-a01d5b5c55eb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5445227418321589
+   },
+   "model": "item/attractions/water/3ccf9551-589d-3a81-a0dd-8e3a9726c719"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5451633568225496
+   },
+   "model": "item/attractions/water/bb20e046-3eb5-3e00-a108-92faa11f4b58"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5458039718129404
+   },
+   "model": "item/attractions/water/0f563c33-5d67-3d8c-a8e0-7bea8674e6b3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5464445868033312
+   },
+   "model": "item/attractions/water/1a81ab48-7b79-3297-933a-f711b89c6568"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5470852017937219
+   },
+   "model": "item/attractions/water/ddf2ea93-a6fb-3e12-af36-f8450e701988"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5477258167841127
+   },
+   "model": "item/attractions/water/8fb9fecd-a1c2-386b-92ae-21475e1134f2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5483664317745035
+   },
+   "model": "item/attractions/water/8af1a48e-15ed-39cc-ba9a-ef50acad27b7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5490070467648943
+   },
+   "model": "item/attractions/water/4037c801-7920-3065-b7cd-cccf5de487f0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.549647661755285
+   },
+   "model": "item/attractions/water/b56b1c58-9bfd-35dc-bfc7-4fbc8a0b8345"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5502882767456758
+   },
+   "model": "item/attractions/water/dd4bd466-82eb-3350-bce5-7d5e1a44b9fe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5509288917360666
+   },
+   "model": "item/attractions/water/59f8cac1-6daa-32c0-8b03-50ddd00ee24d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5515695067264573
+   },
+   "model": "item/attractions/water/402c85c0-3b0f-3a0d-aa16-c77b41ca067f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5522101217168481
+   },
+   "model": "item/attractions/water/7699b941-1d66-3d0c-8d1e-850623b1abe9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5528507367072389
+   },
+   "model": "item/attractions/water/73a5f442-792f-38cc-8954-49fbabdec468"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5534913516976296
+   },
+   "model": "item/attractions/water/867fb270-80c9-30aa-9536-8584af8484b4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5541319666880204
+   },
+   "model": "item/attractions/water/e412387c-9d63-345a-8b64-b068b494ebdb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5547725816784113
+   },
+   "model": "item/attractions/water/aaa6a3ad-ef2b-3ca2-91de-c117637d61ca"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5554131966688021
+   },
+   "model": "item/attractions/water/ec0ae281-fa14-3832-be8f-cebe15ecb036"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5560538116591928
+   },
+   "model": "item/attractions/water/324f1fdf-c2e6-3962-8f45-5c4281683723"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5566944266495836
+   },
+   "model": "item/attractions/water/c02bf90b-2435-302c-b816-80cd3abe42cd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5573350416399744
+   },
+   "model": "item/attractions/water/d8db919c-43aa-3520-bd62-043f18adebcc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5579756566303651
+   },
+   "model": "item/attractions/water/7eedc03a-75cd-3604-8606-a96aa252f5fc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5586162716207559
+   },
+   "model": "item/attractions/water/a510b8d0-4f78-3a15-9fa9-66226229489b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5592568866111467
+   },
+   "model": "item/attractions/water/4a81e363-d132-3d5d-b63d-fd3bf76e435c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5598975016015374
+   },
+   "model": "item/attractions/water/aa75d6b0-37e9-3bad-b0b6-9741d1b11fe0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5605381165919282
+   },
+   "model": "item/attractions/water/f04c4e0e-1f1f-3b34-ae79-ff0454482355"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.561178731582319
+   },
+   "model": "item/attractions/water/1e23ba65-ce33-309e-ba39-3a2cae60fe9a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5618193465727098
+   },
+   "model": "item/attractions/water/e5c2c7e9-667b-35b4-9f0d-f0bf7f612628"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5624599615631005
+   },
+   "model": "item/attractions/water/19321349-13e3-3de4-9a03-c036acda1df0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5631005765534913
+   },
+   "model": "item/attractions/water/d68f30c9-50a7-353d-b47e-50829979b361"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5637411915438821
+   },
+   "model": "item/attractions/water/0825f3e5-3bff-3fd1-8c70-f46018dd948c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5643818065342728
+   },
+   "model": "item/attractions/water/25222140-0d6f-301e-8110-270104131798"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5650224215246636
+   },
+   "model": "item/attractions/water/5480a0c1-e766-3fb1-9007-5589262541b3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5656630365150545
+   },
+   "model": "item/attractions/water/2845d66c-95db-37cd-a14a-f3170487b16b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5663036515054451
+   },
+   "model": "item/attractions/water/0599d5f8-e65d-3131-a5e3-e6a84712a8c2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.566944266495836
+   },
+   "model": "item/attractions/water/3143a333-bc4a-3f01-8813-b0fbf5d8d1ef"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5675848814862268
+   },
+   "model": "item/attractions/water/de81e0be-e6fb-39e3-ad4f-696fd20b4e32"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5682254964766175
+   },
+   "model": "item/attractions/water/84c50b46-44d9-3a0f-94d4-a00d64587ec6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5688661114670083
+   },
+   "model": "item/attractions/water/bcd5c0d4-8842-3b7d-a74b-2aa278ad71d7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5695067264573991
+   },
+   "model": "item/attractions/water/6e6224ff-0576-390f-b645-084655545dde"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5701473414477899
+   },
+   "model": "item/attractions/water/620c0cc4-7db0-3a01-954a-952a3119167c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5707879564381806
+   },
+   "model": "item/attractions/water/eebb33c1-79c6-3ac6-be8a-d36d7eecc3e0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5714285714285714
+   },
+   "model": "item/attractions/water/ecedb93c-5f79-3886-bb0c-fe50988c6d78"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5720691864189622
+   },
+   "model": "item/attractions/water/fbc0e966-b0d8-3399-94d3-7d8e3bcbdcf4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5727098014093529
+   },
+   "model": "item/attractions/water/fc29c377-5897-348e-b6f6-9a90af03c21f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5733504163997437
+   },
+   "model": "item/attractions/water/7c8785e3-0f37-3763-8420-b2a2365c7992"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5739910313901345
+   },
+   "model": "item/attractions/water/15b43487-430f-352c-b3ab-918f3513806f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5746316463805252
+   },
+   "model": "item/attractions/water/f758dac2-9b1c-3888-84e0-cdb9d2c8210a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.575272261370916
+   },
+   "model": "item/attractions/water/28fd3c28-b7ca-3c2e-b6d1-19f966977433"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5759128763613068
+   },
+   "model": "item/attractions/water/51fe4c81-24b4-3a66-94b9-51b898aa70bf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5765534913516976
+   },
+   "model": "item/attractions/water/4d18db9d-f6b6-3144-b301-297688ff0762"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5771941063420883
+   },
+   "model": "item/attractions/water/cfde592c-d74f-31be-9993-f1e72e459144"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5778347213324792
+   },
+   "model": "item/attractions/water/312e82e5-0bf3-3be3-8707-566e30aed55b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.57847533632287
+   },
+   "model": "item/attractions/water/bd5ef8ae-db74-35e1-ad7b-2a6ce13809b4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5791159513132607
+   },
+   "model": "item/attractions/water/4e28a6aa-a7d7-3d1e-b658-64646d4ef07c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5797565663036515
+   },
+   "model": "item/attractions/water/79ec4488-937e-3e5f-8f30-403e25eb7f12"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5803971812940423
+   },
+   "model": "item/attractions/water/ffc4623e-3a73-3be4-9895-6a4919e7d72f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.581037796284433
+   },
+   "model": "item/attractions/water/f8e6571f-af25-3be3-b90c-99bcb2bd6062"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5816784112748238
+   },
+   "model": "item/attractions/water/e21d50cc-60b6-38ce-b6c0-2280c5970945"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5823190262652146
+   },
+   "model": "item/attractions/water/04948044-fa0a-30e3-8936-8b846da89fea"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5829596412556054
+   },
+   "model": "item/attractions/water/1f6bf92d-6787-3a60-99e1-23e5dc7863f4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5836002562459961
+   },
+   "model": "item/attractions/water/3e54d10b-b611-3442-b45b-723b66d3643f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5842408712363869
+   },
+   "model": "item/attractions/water/b626c380-e45e-3714-b60b-a53c4931c900"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5848814862267777
+   },
+   "model": "item/attractions/water/77284ecf-8533-3000-821f-d0eb2addd293"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5855221012171684
+   },
+   "model": "item/attractions/water/4219e7f9-9445-3252-ba76-ccc8a7ab85a9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5861627162075592
+   },
+   "model": "item/attractions/water/d1c33413-f51f-38d2-b1fb-2f33c15c5117"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.58680333119795
+   },
+   "model": "item/attractions/water/3802a996-9605-3727-a24e-bc63f7af813a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5874439461883407
+   },
+   "model": "item/attractions/water/01aa3476-8ddc-38fc-8410-d9fa35b35105"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5880845611787315
+   },
+   "model": "item/attractions/water/cc0421e3-962f-304e-883e-707ad8e074e7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5887251761691223
+   },
+   "model": "item/attractions/water/8b46a646-dfe6-3a60-b05d-62abcd2441cc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.589365791159513
+   },
+   "model": "item/attractions/water/377bf850-6a87-3438-b46d-a52371fab6da"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5900064061499039
+   },
+   "model": "item/attractions/water/787f469f-858d-3b87-80e9-848ae86ce273"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5906470211402947
+   },
+   "model": "item/attractions/water/dec30f2b-5352-3006-aba0-8fe264cd6880"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5912876361306855
+   },
+   "model": "item/attractions/water/5b034fea-479f-33e6-bff7-63c50a0b8622"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5919282511210762
+   },
+   "model": "item/attractions/water/68bfd020-2b1e-3851-8853-7dadb2cc10b6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.592568866111467
+   },
+   "model": "item/attractions/water/d18b4b59-64f8-3883-a587-b75509947cfe"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5932094811018578
+   },
+   "model": "item/attractions/water/f2bc0554-39e3-38b3-baad-25241fe44840"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5938500960922485
+   },
+   "model": "item/attractions/water/9009a569-98de-3886-8427-66bb6bdaddad"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5944907110826393
+   },
+   "model": "item/attractions/water/7145c9ac-e03d-388e-8ce2-7f9fe43e662b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5951313260730301
+   },
+   "model": "item/attractions/water/bac014a5-f9e7-30a3-a0ad-51196be7e201"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5957719410634208
+   },
+   "model": "item/attractions/water/51cce3d9-22e4-360b-a2e1-31ca3ea099e9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5964125560538116
+   },
+   "model": "item/attractions/water/28f30f3f-d578-329b-8bcf-17b37d50ac57"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5970531710442024
+   },
+   "model": "item/attractions/water/bb50baad-5c53-3bbc-9d2a-bfd24ac839b4"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5976937860345932
+   },
+   "model": "item/attractions/water/21af85c9-d521-3160-971d-cb6299101211"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5983344010249839
+   },
+   "model": "item/attractions/water/dd7f0b98-d357-3559-aa7d-0c74acc03a2c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5989750160153747
+   },
+   "model": "item/attractions/water/5337fafa-721f-3353-852b-db281f885b12"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.5996156310057655
+   },
+   "model": "item/attractions/water/dc83f2e0-202e-3924-b34f-a47cf67e7a60"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6002562459961562
+   },
+   "model": "item/attractions/water/7e4f5246-4f84-3c6f-84b8-79ed1726dbc6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.600896860986547
+   },
+   "model": "item/attractions/water/14c8197a-8bb9-3c03-87a1-9eea706d3a98"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6015374759769379
+   },
+   "model": "item/attractions/water/fe388b64-a922-3590-b071-737453cdd12a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6021780909673285
+   },
+   "model": "item/attractions/water/5622f1fe-1c79-305c-887a-2ee39d7db293"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6028187059577194
+   },
+   "model": "item/attractions/water/480efd0c-af9e-36a3-84ac-27ddd828a811"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6034593209481102
+   },
+   "model": "item/attractions/water/8d7f0399-e129-3730-81d5-8bd6c9a71463"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.604099935938501
+   },
+   "model": "item/attractions/water/75b9dad5-cf61-311c-85de-b107771446c0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6047405509288917
+   },
+   "model": "item/attractions/water/2d3017df-f41e-3c93-83b6-6585cd575cb3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6053811659192825
+   },
+   "model": "item/attractions/water/318dc10a-35b7-32f6-a6fa-adecc520b7c9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6060217809096733
+   },
+   "model": "item/attractions/water/f1bc4fd1-0dbf-3565-b6da-8ca8adec575d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.606662395900064
+   },
+   "model": "item/attractions/water/c48784da-2c20-354b-9ad7-add75cfa7e2f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6073030108904548
+   },
+   "model": "item/attractions/water/667edcc4-602b-359b-86d7-20ac8276e496"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6079436258808456
+   },
+   "model": "item/attractions/water/20503b89-3a65-3e75-aec9-6209f76a2b1d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6085842408712363
+   },
+   "model": "item/attractions/water/036462bd-3c5a-32ce-a0e4-5aee76fa209c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6092248558616271
+   },
+   "model": "item/attractions/water/7f2e675d-e143-318c-9e82-9a0924babf66"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6098654708520179
+   },
+   "model": "item/attractions/water/d63ea194-3bf1-3098-b48f-4c8720016d2e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6105060858424086
+   },
+   "model": "item/attractions/water/162f4c02-8cdb-337e-8ac5-d1da890ed998"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6111467008327994
+   },
+   "model": "item/attractions/water/2e8e6282-28d8-3bf3-ab34-103942ca9b48"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6117873158231902
+   },
+   "model": "item/attractions/water/2ee826ec-c3bd-38d1-b9c7-ba82c26bae31"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.612427930813581
+   },
+   "model": "item/attractions/water/565f0b61-cb9c-3edb-aee7-1c82fcfbd82c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6130685458039717
+   },
+   "model": "item/attractions/water/2087757a-9012-34fd-944b-33cc9865e444"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6137091607943626
+   },
+   "model": "item/attractions/water/6ed49912-96d4-3ce6-87ba-5f289eeb6bcc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6143497757847534
+   },
+   "model": "item/attractions/water/58322ee7-0d1f-33fa-ba6a-a5bd70726889"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6149903907751441
+   },
+   "model": "item/attractions/water/d96bf50e-9bd5-3ddf-8451-ad464596a964"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6156310057655349
+   },
+   "model": "item/attractions/water/a5697338-ab88-3475-a03a-4ad5cee82106"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6162716207559257
+   },
+   "model": "item/attractions/water/49b62ae7-13e3-35a9-9771-5e7694d91bc5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6169122357463164
+   },
+   "model": "item/attractions/water/410e7ee2-10dc-3359-96d5-59b5705fbe29"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6175528507367072
+   },
+   "model": "item/attractions/water/31e348d2-bf69-3c58-bb87-4bd7db2d01be"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.618193465727098
+   },
+   "model": "item/attractions/water/9fb5ed63-bcd9-37b3-a04e-7a60e04953c9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6188340807174888
+   },
+   "model": "item/attractions/water/0e0aa766-1545-3820-a7ed-ab9caeaac24e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6194746957078795
+   },
+   "model": "item/attractions/water/433a83c1-3fbd-38d4-a219-59b2e15c143d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6201153106982703
+   },
+   "model": "item/attractions/water/e060c7b7-64ae-3c49-9f02-5b455d1b3d09"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6207559256886611
+   },
+   "model": "item/attractions/water/a8fdb6e1-55a4-3cb1-aa76-89976c284663"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6213965406790518
+   },
+   "model": "item/attractions/water/28e1971b-66da-34d7-a7a4-603ad131db9c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6220371556694426
+   },
+   "model": "item/attractions/water/fd50c2dd-c9c2-3063-9352-c01559dd3f53"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6252402306213966
+   },
+   "model": "item/attractions/water/56a12e6d-7f85-31f6-a3e9-004348911ec7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6258808456117873
+   },
+   "model": "item/attractions/water/9a85b03d-e4aa-37e7-ad74-8b5020089271"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6265214606021781
+   },
+   "model": "item/attractions/water/869d7741-98e4-34fd-b549-f9c7cbc1d7dd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6271620755925689
+   },
+   "model": "item/attractions/water/f1a31467-3ae1-3d9f-9ca8-acf47f81a8f3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6278026905829596
+   },
+   "model": "item/attractions/water/20999dfc-dfc3-3661-99f2-b3b2fee21339"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6284433055733504
+   },
+   "model": "item/attractions/water/c41d301f-cc40-3428-8bf9-0874d3ed4854"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6290839205637412
+   },
+   "model": "item/attractions/water/2e016d2d-21fc-3971-9684-ec2dc8c149aa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6297245355541319
+   },
+   "model": "item/attractions/water/66a80a3d-3ada-3200-b37c-8aa20ac31b42"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6303651505445227
+   },
+   "model": "item/attractions/water/7fc81cfe-b0c6-3ffe-8d72-46d98af74b39"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6310057655349135
+   },
+   "model": "item/attractions/water/55bc452e-1045-3b05-9615-9513e8112a72"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6316463805253043
+   },
+   "model": "item/attractions/water/53e7533c-55b0-347e-91a2-6f0636af24da"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.632286995515695
+   },
+   "model": "item/attractions/water/fb206654-7235-32b0-b506-b4938e7906ba"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6329276105060858
+   },
+   "model": "item/attractions/water/e4d5ea6c-9f60-3339-99cd-2d2e76b203b5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6335682254964766
+   },
+   "model": "item/attractions/water/d5273587-ba6f-378c-83e5-9f4ca94e148d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6342088404868673
+   },
+   "model": "item/attractions/water/3550f0f0-2560-3b52-a912-ae7e81a50f8a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6348494554772581
+   },
+   "model": "item/attractions/water/aa0bcca3-93f9-38d3-a38c-08f31e515865"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6354900704676489
+   },
+   "model": "item/attractions/water/dd29995c-8aa1-35ec-912e-3a7728e6b013"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6361306854580396
+   },
+   "model": "item/attractions/water/1c824c21-07ce-3c25-8f88-84ee25ceeb2c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6367713004484304
+   },
+   "model": "item/attractions/water/30bf30fd-a724-31a6-b126-878262bbbedf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6374119154388213
+   },
+   "model": "item/attractions/water/47a07fd0-65c4-3f10-a8e8-380ab56bd850"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.638052530429212
+   },
+   "model": "item/attractions/water/b28aa548-f073-33fe-950b-80ee04500ecd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6386931454196028
+   },
+   "model": "item/attractions/water/faeb18c7-8090-36ca-87c2-399f04c86cab"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6393337604099936
+   },
+   "model": "item/attractions/water/e6433502-e238-3e16-8a97-0386bd250350"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6399743754003844
+   },
+   "model": "item/attractions/water/fad3b54a-7802-3593-ace9-7aa3cd84ffb7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6406149903907751
+   },
+   "model": "item/attractions/water/a4a950b1-7e44-3833-9e48-d28b1e24975f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6412556053811659
+   },
+   "model": "item/attractions/water/83364744-aefd-3c99-9f75-2e5d9dbcacf0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6418962203715567
+   },
+   "model": "item/attractions/water/4c3e536d-cdd4-30ab-9041-1a9931073044"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6425368353619474
+   },
+   "model": "item/attractions/water/f82a3719-8f3b-3e1a-b561-64508d14ba92"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6431774503523382
+   },
+   "model": "item/attractions/water/1e012394-a6cf-3f92-bf18-35ce68dd8ba2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.643818065342729
+   },
+   "model": "item/attractions/water/3a657e09-7bc5-3be6-9555-2f20f1326ccd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6444586803331197
+   },
+   "model": "item/attractions/water/219ad58d-edec-3b8a-8e36-55143947a310"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6450992953235105
+   },
+   "model": "item/attractions/water/f590713b-8c6d-33db-8c00-6b3591266314"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6457399103139013
+   },
+   "model": "item/attractions/water/adb22136-ceae-3cb7-b1ce-6634bd64543d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6463805253042921
+   },
+   "model": "item/attractions/water/e665b781-4385-3d82-a28d-17379c7b70ad"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6470211402946828
+   },
+   "model": "item/attractions/water/cc38cc46-c2ef-35aa-93bc-846d9b8d921d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6476617552850736
+   },
+   "model": "item/attractions/water/8dd5989c-dfd5-3809-ae3b-9b01b3935a78"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6483023702754644
+   },
+   "model": "item/attractions/water/267e4200-6431-3e70-a24c-0e6fd1f1d4fc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6489429852658551
+   },
+   "model": "item/attractions/water/87ca9caa-edc4-33a1-be30-aa3e582aa89f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.649583600256246
+   },
+   "model": "item/attractions/water/ab4b8fbb-7338-361a-bb3c-dbd7f5a6b73a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6502242152466368
+   },
+   "model": "item/attractions/water/527c0def-5005-307b-9c87-3c819556f38c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6508648302370275
+   },
+   "model": "item/attractions/water/eea27f03-12b7-373a-945c-25a730a0dd28"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6515054452274183
+   },
+   "model": "item/attractions/water/557e32ad-8a4c-3203-bdc6-b68ba70442fa"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6521460602178091
+   },
+   "model": "item/attractions/water/4786387c-2e3b-389b-9466-454a3921e30f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6527866752081999
+   },
+   "model": "item/attractions/water/b721ae23-f346-31e6-8e96-3084b00dabd2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6534272901985906
+   },
+   "model": "item/attractions/water/c2843fcd-b292-3f59-83a1-c4f03c5def8c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6540679051889814
+   },
+   "model": "item/attractions/water/64796a7e-56ba-3145-80e7-1aa6c4cb90be"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6547085201793722
+   },
+   "model": "item/attractions/water/e02c616f-2229-30c3-9454-77a117f05ff0"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6553491351697629
+   },
+   "model": "item/attractions/water/31781b8c-30d3-306a-95fb-29e4a99f6e5d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6559897501601537
+   },
+   "model": "item/attractions/water/4dcd5dd6-d2cf-3f01-86de-a05eee48c4e6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6566303651505445
+   },
+   "model": "item/attractions/water/a7bcd2e7-86b7-33e1-b73d-991ccb3919e2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6572709801409352
+   },
+   "model": "item/attractions/water/9eef58eb-ce1b-350a-8c41-1b996e6a3a9e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.657911595131326
+   },
+   "model": "item/attractions/water/d8925056-541f-35ca-8967-6fc85e42d9b7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6585522101217168
+   },
+   "model": "item/attractions/water/5b36128c-d27d-39a8-9f25-564ecf658c48"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6591928251121075
+   },
+   "model": "item/attractions/water/999321d9-85a8-3aaf-b22a-121842d77c52"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6598334401024983
+   },
+   "model": "item/attractions/water/38da8854-842c-30a9-8482-254c418648bd"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6604740550928891
+   },
+   "model": "item/attractions/water/f743e527-8214-3b2d-9c04-75a2271ed72f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.66111467008328
+   },
+   "model": "item/attractions/water/da7fd0cc-29a2-3218-98e4-2777637aa0d2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6617552850736707
+   },
+   "model": "item/attractions/water/4dd20693-547b-3bd5-a94f-38dd1a1b8f06"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6623959000640615
+   },
+   "model": "item/attractions/water/c0e6e002-c646-3a48-912c-ffcda1d24b13"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6630365150544523
+   },
+   "model": "item/attractions/water/893c7315-9db4-3e04-8e33-63b0320a297b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.663677130044843
+   },
+   "model": "item/attractions/water/3bd4a8b1-66b8-311e-b51f-d338f14364da"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6643177450352338
+   },
+   "model": "item/attractions/water/cec7981a-8a35-367d-86d6-de3706a0ae26"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6649583600256246
+   },
+   "model": "item/attractions/water/8429f637-cbe6-3a9f-a4d6-9705c7273abb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6655989750160153
+   },
+   "model": "item/attractions/water/d394f6ef-f128-37e9-a0bc-af8009081166"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6662395900064061
+   },
+   "model": "item/attractions/water/2b02094c-2e4e-3b0c-8fee-f1259de2cc73"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6668802049967969
+   },
+   "model": "item/attractions/water/a3bc4dcf-7e7f-3b69-8bb3-43cacc0db437"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6675208199871877
+   },
+   "model": "item/attractions/water/f6364e26-5a7c-3599-a2c1-2c03330853c2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6681614349775784
+   },
+   "model": "item/attractions/water/a1373686-f6ba-3d48-828f-091150db9346"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6688020499679692
+   },
+   "model": "item/attractions/water/cc652e17-e7a7-3cf6-a86f-66e378219f98"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.66944266495836
+   },
+   "model": "item/attractions/water/3640e5e0-0538-3a9f-944f-d41402c4b795"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6700832799487507
+   },
+   "model": "item/attractions/water/11838725-faed-3fcb-a057-3be1897d423a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6707238949391415
+   },
+   "model": "item/attractions/water/b55969d6-b382-3364-8575-dfd53dd8dd46"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6713645099295323
+   },
+   "model": "item/attractions/water/d053c365-e4fb-380a-9829-7af6061fe526"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.672005124919923
+   },
+   "model": "item/attractions/water/633beeb3-4627-38af-836b-fcb0b120ac5f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6726457399103138
+   },
+   "model": "item/attractions/water/604eff9d-83cc-3674-8eab-a0e5c6c2ca94"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6732863549007047
+   },
+   "model": "item/attractions/water/8d6a0054-ed44-3425-a3d2-40ceabf19f0a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6739269698910955
+   },
+   "model": "item/attractions/water/e55cadb3-7a55-3a61-bb81-5a428e6adba5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6745675848814862
+   },
+   "model": "item/attractions/water/f025e5a8-6411-3a70-88d6-de1cee99a629"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.675208199871877
+   },
+   "model": "item/attractions/water/def54f5e-0a5b-366f-95c9-210b97ffe014"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6758488148622678
+   },
+   "model": "item/attractions/water/30b48d33-109a-3aad-9334-d0e534bb9ecf"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6764894298526585
+   },
+   "model": "item/attractions/water/f92f7a54-5998-3ffe-adc2-2e5269e1b69b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6771300448430493
+   },
+   "model": "item/attractions/water/0f9d4d60-a83f-3905-a16e-8035792e4b59"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6777706598334401
+   },
+   "model": "item/attractions/water/b9fbfa71-be84-32d2-adf0-cca9bfb1acb9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6784112748238308
+   },
+   "model": "item/attractions/water/301d76c8-7d18-31b1-a5ca-4da9d0a830b9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6796925048046124
+   },
+   "model": "item/attractions/water/c8529a66-2b89-383b-9c02-2bbb06e1d8f9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6803331197950031
+   },
+   "model": "item/attractions/water/8194e6f0-e30c-3f9b-9d5c-789848a9f5c1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6809737347853939
+   },
+   "model": "item/attractions/water/5e28cdbb-bfbd-3e20-a8ea-233e81aa134f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6816143497757847
+   },
+   "model": "item/attractions/water/8f994948-a571-3c3b-805e-b2bccff583b6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6822549647661755
+   },
+   "model": "item/attractions/water/277e95a7-94f3-312c-b748-11842abdc2ec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6828955797565662
+   },
+   "model": "item/attractions/water/5fef7e5b-b921-372e-b813-0dacc99349e5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.683536194746957
+   },
+   "model": "item/attractions/water/0aa1504d-dad7-3eb0-9d91-2f34280b2081"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6841768097373478
+   },
+   "model": "item/attractions/water/ec5258f7-f45e-3223-b25c-62600eb34422"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6848174247277385
+   },
+   "model": "item/attractions/water/5d880885-e19f-346e-ac12-974d17c9f018"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6854580397181294
+   },
+   "model": "item/attractions/water/1338fc0a-29db-327b-ba8a-db0d2251174e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6860986547085202
+   },
+   "model": "item/attractions/water/84d7fb9d-2236-3e44-b6b1-037b686002e6"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6867392696989109
+   },
+   "model": "item/attractions/water/985ff550-8848-32f6-a701-66c6481f656f"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6873798846893017
+   },
+   "model": "item/attractions/water/90f3464f-a394-3b8b-ae1d-1b2b331cfb79"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6880204996796925
+   },
+   "model": "item/attractions/water/77dd4616-6314-321f-81d9-02d07b1a5f9a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6886611146700833
+   },
+   "model": "item/attractions/water/72a5c1bb-ab56-356e-b60a-dcdd76b17a23"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.689301729660474
+   },
+   "model": "item/attractions/water/db063660-9599-37d5-8876-35e22a361538"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6899423446508648
+   },
+   "model": "item/attractions/water/09792288-aff6-3c13-8836-b1a56865556a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6905829596412556
+   },
+   "model": "item/attractions/water/75002a79-4a73-3642-ac08-624d73383eab"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6912235746316463
+   },
+   "model": "item/attractions/water/bbcf952b-7311-355d-9a81-62e1d551afec"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6918641896220371
+   },
+   "model": "item/attractions/water/aaf1ffa6-6683-3b88-bd2c-4ce1a0255b18"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6925048046124279
+   },
+   "model": "item/attractions/water/91c4801f-f8a0-3057-8158-f0e7d2cd618c"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6931454196028186
+   },
+   "model": "item/attractions/water/d727a469-0a06-3d77-b8c5-066af6d0f5f9"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6937860345932094
+   },
+   "model": "item/attractions/water/f01edbd9-d863-3718-b864-e17fbf8d1a2d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6944266495836002
+   },
+   "model": "item/attractions/water/9e52c3e5-d73b-3f59-b0ce-769f69d2c448"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.695067264573991
+   },
+   "model": "item/attractions/water/a8f91831-c6f1-3335-85d1-c0a0a335e1bc"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6957078795643817
+   },
+   "model": "item/attractions/water/2fc6af28-687c-3c25-9e0a-047b5bfd8453"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6963484945547725
+   },
+   "model": "item/attractions/water/d1615598-20e5-3e95-b524-445f4e7c7a0a"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6969891095451634
+   },
+   "model": "item/attractions/water/4496d271-f26b-3524-a758-1eb10b52562e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.697629724535554
+   },
+   "model": "item/attractions/water/0b0ec236-3725-3e28-8bf4-0a4a40d6a1f1"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6982703395259449
+   },
+   "model": "item/attractions/water/e038b7de-b3a7-3931-ab1f-007fdeae1ef2"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6989109545163357
+   },
+   "model": "item/attractions/water/8b031f7d-2d26-371e-ae57-d3f44086aa03"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.6995515695067264
+   },
+   "model": "item/attractions/water/d7df5573-89e0-323b-9697-63084a20bab3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7001921844971172
+   },
+   "model": "item/attractions/water/f572a34d-b300-3534-b949-b6510f48cc37"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.700832799487508
+   },
+   "model": "item/attractions/water/def58388-edfb-31aa-bd12-40779bb6747e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7014734144778988
+   },
+   "model": "item/attractions/water/2b8b2644-7f9d-3a04-a273-d12b3c5e3952"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7021140294682895
+   },
+   "model": "item/attractions/water/60a0773b-9bf1-3ada-ade1-988368c64d9e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7027546444586803
+   },
+   "model": "item/attractions/water/729d3ec4-9d5b-3828-87fe-d73c4018ce74"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7033952594490711
+   },
+   "model": "item/attractions/water/19a2dbb1-75a8-3e41-84b1-6494a612d4c7"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7040358744394618
+   },
+   "model": "item/attractions/water/37265e5e-561b-3a39-aa6b-742f86133bff"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7046764894298526
+   },
+   "model": "item/attractions/water/b89b42db-b5ac-35a4-b7ef-bc8bfa89232b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7098014093529789
+   },
+   "model": "item/attractions/water/7f657326-6cb1-376a-b0f4-b72626829671"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7104420243433696
+   },
+   "model": "item/attractions/water/d1e73c69-a5cc-313b-ad1e-596ac871a1c5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7110826393337604
+   },
+   "model": "item/attractions/water/f4d66ac3-b872-3fee-94cd-9eeede8e5ab5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7117232543241512
+   },
+   "model": "item/attractions/water/b643b1ea-fbec-3e5e-a379-a873e437248e"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7123638693145419
+   },
+   "model": "item/attractions/water/965ea143-3595-360b-8a55-3f559847f750"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7130044843049327
+   },
+   "model": "item/attractions/water/2949d06c-914a-390b-82fd-59c900bf2173"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7136450992953235
+   },
+   "model": "item/attractions/water/ab8af84a-ffa5-331b-9c63-601663223501"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7142857142857142
+   },
+   "model": "item/attractions/water/501625dd-cce7-31f0-b784-62f222ac1aeb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.714926329276105
+   },
+   "model": "item/attractions/water/8c972395-9138-348e-9aba-288795a68fc3"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7155669442664958
+   },
+   "model": "item/attractions/water/36c07cab-bbb5-3db0-95e8-ef21dc2b1f53"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7162075592568866
+   },
+   "model": "item/attractions/water/1f3676d4-67fd-3a41-86e1-aef8fdcf7947"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7168481742472773
+   },
+   "model": "item/attractions/water/3702cb9b-4202-375b-9984-968d844b0b5d"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7174887892376681
+   },
+   "model": "item/attractions/water/7a40a7fe-3a27-3200-b2dd-89ddf1f2f1bb"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7181294042280589
+   },
+   "model": "item/attractions/water/558a7d32-ceaa-3599-a311-84b00d127654"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7187700192184496
+   },
+   "model": "item/attractions/water/3254ec4d-c92a-3f1f-adc7-cb6039de50b5"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7194106342088404
+   },
+   "model": "item/attractions/water/49a411b5-75ef-3377-bfcb-280af6b2253b"
+  },
+  {
+   "predicate": {
+    "damaged": 0,
+    "damage": 0.7200512491992312
+   },
+   "model": "item/attractions/water/4179dc24-5faa-3e00-85f3-3c1e99d2632b"
+  }
+ ]
+}
+
+
+

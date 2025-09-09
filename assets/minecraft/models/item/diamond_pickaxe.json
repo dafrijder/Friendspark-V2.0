@@ -1,0 +1,26 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/attractions/flatrides/dmKoorbank"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/attractions/flatrides/dmSchijf"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/attractions/darkrides/JungleRide"
+    }
+  ]
+}

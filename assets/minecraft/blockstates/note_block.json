@@ -1,0 +1,73 @@
+{
+    "variants": {
+		"instrument=banjo,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+		"instrument=banjo,note=2,powered=false": [
+                { "model": "block/redstone_lamp_on" }
+			],
+		"instrument=banjo,note=3,powered=false": [
+                { "model": "block/baron_terracotta" }
+			],
+		"instrument=banjo,note=4,powered=false": [
+                { "model": "block/lichtbaron_terracotta" }
+			],
+		"instrument=banjo,note=5,powered=false": [
+                { "model": "block/fenix_slab" }
+			],
+		"instrument=banjo,note=6,powered=false": [
+                { "model": "block/sterren2" }
+			],
+		"instrument=banjo,note=7,powered=false": [
+                { "model": "block/sterren3" }
+                        ],
+        "instrument=basedrum,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=bass,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+		"instrument=bass,note=2,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=bell,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=bit,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=chime,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=cow_bell,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=didgeridoo,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=flute,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=guitar,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=harp,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=hat,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=iron_xylophone,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=pling,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=snare,note=1,powered=false": [
+                { "model": "block/note_block" }
+			],
+        "instrument=xylophone,note=1,powered=false": [
+                { "model": "block/note_block" }
+			]
+	}
+}

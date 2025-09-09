@@ -1,0 +1,44 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/diamond_hoe"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "item/attractions/rollercoasters/baron_kar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "item/attractions/rollercoasters/hulk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "item/attractions/rollercoasters/kraken"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "item/attractions/rollercoasters/labdes_voor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "item/attractions/rollercoasters/RedForce"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "item/attractions/rollercoasters/MonkeySwing"
+    }
+  ]
+}

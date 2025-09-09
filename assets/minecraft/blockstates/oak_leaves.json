@@ -1,0 +1,22 @@
+{
+    "variants": {
+		"distance=1,persistent=false": [
+                { "model": "block/oak_leaves" }
+			],
+		"distance=2,persistent=false": [
+                { "model": "block/oak_leaves" }
+			],
+		"distance=3,persistent=false": [
+                { "model": "block/oak_leaves" }
+			],
+		"distance=4,persistent=false": [
+                { "model": "block/oak_leaves" }
+			],
+		"distance=5,persistent=false": [
+                { "model": "block/oak_leaves" }
+			],
+		"distance=6,persistent=false": [
+                { "model": "block/oak_leaves" }
+			]
+	}
+}
