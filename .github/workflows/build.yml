@@ -30,6 +30,13 @@ jobs:
         run: |
           echo "{ \"url\": \"https://github.com/${{ github.repository }}/releases/latest/download/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
 
+      - name: Delete old release/tag
+        run: |
+          gh release delete latest -y || true
+          git push origin :refs/tags/latest || true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Upload Release
         uses: softprops/action-gh-release@v1
         with:
