@@ -25,13 +25,14 @@ jobs:
 
       - name: Create latest.json
         run: |
-          echo "{ \"url\": \"https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
+          echo "{ \"url\": \"https://github.com/${{ github.repository }}/releases/latest/download/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
 
-      - name: Commit artifacts
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          mv resourcepack.zip latest.json .
-          git add resourcepack.zip latest.json
-          git commit -m "Update resourcepack [skip ci]" || echo "No changes"
-          git push
+      - name: Upload Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          files: |
+            resourcepack.zip
+            latest.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
