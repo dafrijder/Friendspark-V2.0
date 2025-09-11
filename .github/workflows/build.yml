@@ -25,10 +25,13 @@ jobs:
 
       - name: Create latest.json
         run: |
-          echo "{ \"url\": \"https://<user>.github.io/<repo>/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
+          echo "{ \"url\": \"https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
 
-      - name: Upload to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+      - name: Commit artifacts
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mv resourcepack.zip latest.json .
+          git add resourcepack.zip latest.json
+          git commit -m "Update resourcepack [skip ci]" || echo "No changes"
+          git push
