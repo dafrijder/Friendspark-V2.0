@@ -990,7 +990,7 @@
 		{
 			"from": [-3, 7, 13.3],
 			"to": [19, 24, 13.3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 15, 13.3]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 15, 13.3]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#6"},
 				"east": {"uv": [0, 0, 0, 4.25], "texture": "#6"},
