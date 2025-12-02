@@ -6,6 +6,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -13,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Zip resourcepack
         run: |
@@ -21,30 +23,30 @@ jobs:
           zip -r ../resourcepack.zip .
           cd ..
 
-      - name: Generate SHA1
+      - name: Generate SHA1 checksum
         run: |
           sha1sum resourcepack.zip | awk '{ print $1 }' > sha1.txt
           echo "SHA1=$(cat sha1.txt)" >> $GITHUB_ENV
 
-      - name: Create latest.json
+      - name: Prepare GitHub Pages artifact
         run: |
-          echo "{ \"url\": \"https://github.com/${{ github.repository }}/releases/latest/download/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > latest.json
+          mkdir build
+          mv resourcepack.zip build/
+          mv sha1.txt build/
+          echo "{ \"url\": \"https://$(echo ${{ github.repository_owner }}).github.io/$(basename ${{ github.repository }})/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > build/latest.json
 
-      - name: Delete old release/tag
-        run: |
-          gh release delete latest -y || true
-          git push origin :refs/tags/latest || true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Upload Release
-        uses: softprops/action-gh-release@v1
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v2
         with:
-          tag_name: latest
-          files: |
-            resourcepack.zip
-            latest.json
-          draft: false
-          prerelease: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          path: build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
