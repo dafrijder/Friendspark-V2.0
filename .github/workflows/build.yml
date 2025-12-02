@@ -1,4 +1,4 @@
-name: Build Resourcepack
+name: Build & Publish Resourcepack
 
 on:
   push:
@@ -10,43 +10,48 @@ permissions:
   id-token: write
 
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Make build dir
+        run: |
+          rm -rf build
+          mkdir -p build
 
       - name: Zip resourcepack
         run: |
+          # Zorg dat je pack in de map 'resourcepack' staat
           cd resourcepack
-          zip -r ../resourcepack.zip .
+          zip -r ../build/resourcepack.zip .
           cd ..
 
-      - name: Generate SHA1 checksum
+      - name: Compute SHA1
         run: |
-          sha1sum resourcepack.zip | awk '{ print $1 }' > sha1.txt
-          echo "SHA1=$(cat sha1.txt)" >> $GITHUB_ENV
+          sha1sum build/resourcepack.zip | awk '{print $1}' > build/sha1.txt
+          echo "SHA1=$(cat build/sha1.txt)" >> $GITHUB_ENV
 
-      - name: Prepare GitHub Pages artifact
+      - name: Create latest.json (met directe GitHub Pages URL)
         run: |
-          mkdir build
-          mv resourcepack.zip build/
-          mv sha1.txt build/
-          echo "{ \"url\": \"https://$(echo ${{ github.repository_owner }}).github.io/$(basename ${{ github.repository }})/resourcepack.zip\", \"sha1\": \"${SHA1}\" }" > build/latest.json
+          OWNER=${{ github.repository_owner }}
+          REPO=${{ github.event.repository.name }}
+          URL="https://${OWNER}.github.io/${REPO}/resourcepack.zip"
+          echo "{\"url\":\"${URL}\",\"sha1\":\"${SHA1}\"}" > build/latest.json
 
-      - name: Upload artifact for GitHub Pages
-        uses: actions/upload-pages-artifact@v2
+      - name: Prepare publish folder
+        run: |
+          mkdir -p build/public
+          mv build/resourcepack.zip build/latest.json build/public/
+
+      - name: Deploy to GitHub Pages (gh-pages branch)
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          path: build
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build/public
+          publish_branch: gh-pages
+          # optioneel: commit author
+          user_name: 'github-actions[bot]'
+          user_email: 'github-actions[bot]@users.noreply.github.com'
